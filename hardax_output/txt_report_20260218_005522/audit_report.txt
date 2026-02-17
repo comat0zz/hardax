@@ -1,0 +1,3925 @@
+HARDAX - Hardening Audit eXaminer Report
+Generated: 2026-02-18 00:59:22
+
+Device Information
+========================================
+Model: ONEPLUS A6013
+Brand: OnePlus
+Manufacturer: OnePlus
+Name: OnePlus6T
+Soc Manufacturer: Qualcomm
+Soc Model: SDM845
+Android Version: 15
+Sdk Level: 35
+Build Id: lineage_fajita-userdebug 15 BP1A.250505.005 c6cc79b979
+Fingerprint: OnePlus/OnePlus6T/OnePlus6T:11/RKQ1.201217.002/2111252327:user/release-keys
+Serialno: 4af63364
+Timezone: Asia/Kolkata
+
+========================================
+Certificate Audit
+========================================
+CN                                       Valid From   Valid Until    Days Old     Expiry Status         
+----------------------------------------------------------------------------------------------------
+Baltimore CyberTrust Root                2000-05-12   2025-05-12         9412       -282 EXPIRED        
+NetLock Arany (Class Gold) Főtanúsítvány 2008-12-11   2028-12-06         6277       1022 VALID          
+GlobalSign                               2009-03-18   2029-03-18         6180       1124 VALID          
+Entrust.net Certification Authority (2048) 1999-12-24   2029-07-24         9552       1252 VALID          
+D-TRUST Root Class 3 CA 2 2009           2009-11-05   2029-11-05         5948       1356 VALID          
+COMODO Certification Authority           2006-12-01   2029-12-31         7019       1412 VALID          
+Actalis Authentication Root CA           2011-09-22   2030-09-22         5262       1677 VALID          
+Entrust Root Certification Authority - G2 2009-07-07   2030-12-07         6069       1753 VALID          
+ACCVRAIZ1                                2011-05-05   2030-12-31         5402       1777 VALID          
+DigiCert Global Root CA                  2006-11-10   2031-11-10         7040       2090 VALID          
+T-TeleSec GlobalRoot Class 3             2008-10-01   2033-10-01         6348       2782 VALID          
+Certigna Root CA                         2013-10-01   2033-10-01         4522       2782 VALID          
+IdenTrust Public Sector Root CA 1        2014-01-16   2034-01-16         4415       2889 VALID          
+Unknown                                  2004-06-29   2034-06-29         7903       3053 VALID          
+Unknown                                  2004-06-29   2034-06-29         7903       3053 VALID          
+ISRG Root X1                             2015-06-04   2035-06-04         3911       3393 VALID          
+GTS Root R4                              2016-06-22   2036-06-22         3528       3776 VALID          
+SwissSign Gold CA - G2                   2006-10-25   2036-10-25         7055       3902 VALID          
+SwissSign Silver CA - G2                 2006-10-25   2036-10-25         7055       3902 VALID          
+Izenpe.com                               2007-12-13   2037-12-13         6641       4316 VALID          
+Starfield Services Root Certificate Authority - G2 2009-09-01   2037-12-31         6014       4334 VALID          
+HiPKI Root CA - G1                       2019-02-22   2037-12-31         2552       4334 VALID          
+USERTrust ECC Certification Authority    2010-02-01   2038-01-18         5861       4352 VALID          
+USERTrust RSA Certification Authority    2010-02-01   2038-01-18         5861       4352 VALID          
+GlobalSign                               2012-11-13   2038-01-19         4845       4353 VALID          
+GlobalSign                               2012-11-13   2038-01-19         4845       4353 VALID          
+GLOBALTRUST 2020                         2020-02-10   2040-06-10         2200       5225 VALID          
+Buypass Class 3 Root CA                  2010-10-26   2040-10-26         5593       5364 VALID          
+UCA Global G2 Root                       2016-03-11   2040-12-31         3631       5429 VALID          
+SSL.com Root Certification Authority RSA 2016-02-12   2041-02-12         3658       5473 VALID          
+Atos TrustedRoot Root CA RSA TLS 2021    2021-04-22   2041-04-17         1762       5537 VALID          
+Atos TrustedRoot Root CA ECC TLS 2021    2021-04-22   2041-04-17         1762       5537 VALID          
+QuoVadis Root CA 2 G3                    2012-01-12   2042-01-12         5150       5807 VALID          
+QuoVadis Root CA 1 G3                    2012-01-12   2042-01-12         5150       5807 VALID          
+OISTE WISeKey Global Root GC CA          2017-05-09   2042-05-09         3206       5924 VALID          
+SSL.com EV Root Certification Authority RSA R2 2017-05-31   2042-05-30         3184       5945 VALID          
+Microsoft ECC Root Certificate Authority 2017 2019-12-18   2042-07-18         2253       5994 VALID          
+Trustwave Global ECC P256 Certification Authority 2017-08-23   2042-08-23         3100       6030 VALID          
+Certum EC-384 CA                         2018-03-26   2043-03-26         2885       6245 VALID          
+TUBITAK Kamu SM SSL Kok Sertifikasi - Surum 1 2013-11-25   2043-10-25         4467       6458 VALID          
+AC RAIZ FNMT-RCM SERVIDORES SEGUROS      2018-12-20   2043-12-20         2616       6514 VALID          
+HARICA TLS ECC Root CA 2021              2021-02-19   2045-02-13         1824       6935 VALID          
+DigiCert TLS ECC P384 Root G5            2021-01-15   2046-01-14         1860       7270 VALID          
+GlobalSign Root R46                      2019-03-20   2046-03-20         2527       7334 VALID          
+Sectigo Public Server Authentication Root E46 2021-03-22   2046-03-21         1794       7336 VALID          
+Certainly Root E1                        2021-04-01   2046-04-01         1784       7346 VALID          
+CommScope Public Trust ECC Root-02       2021-04-28   2046-04-28         1756       7374 VALID          
+CommScope Public Trust ECC Root-01       2021-04-28   2046-04-28         1756       7374 VALID          
+TrustAsia Global Root CA G4              2021-05-20   2046-05-19         1734       7395 VALID          
+SSL.com TLS RSA Root CA 2022             2022-08-25   2046-08-19         1272       7487 VALID          
+
+========================================
+Findings
+========================================
+
+[ADB_SECURITY] ADB Keys Present
+Command: ls /data/misc/adb/adb_keys 2>/dev/null
+Description: Presence of adb_keys may indicate previously trusted host
+Result: /data/misc/adb/adb_keys
+Status: WARNING
+----------------------------------------
+
+[ADB_SECURITY] ADB Over Network Port
+Command: getprop service.adb.tcp.port
+Description: Should be empty or disabled; non-default = risk
+Result: 
+Status: SAFE
+----------------------------------------
+
+[ADB_SECURITY] System Debug Binaries
+Command: ls /system/bin/gdbserver /system/bin/strace 2>/dev/null
+Description: Presence of debug tools increases attack surface
+Result: /system/bin/strace
+Status: WARNING
+----------------------------------------
+
+[ADB_SECURITY] Kernel DebugFS Enabled
+Command: cat /sys/kernel/debug/debug_enabled 2>/dev/null
+Description: Kernel debugfs enabled exposes sensitive kernel interfaces [⚠ Manual verification required - empty/unsupported output]
+Result: (No output - command may not be supported on this device)
+Status: VERIFY
+----------------------------------------
+
+[APPS] AppOps: private-data access
+Command: dumpsys appops | grep -E 'READ_EXTERNAL_STORAGE|ACCESS_FINE_LOCATION'
+Description: Monitor unexpected accesses to sensitive data
+Result: Op READ_EXTERNAL_STORAGE:
+      #1: ModeCallback{54d7dfe watchinguid=-1 flags=0x0 op=READ_EXTERNAL_STORAGE from uid=u0a184 pid=3477}
+      #1: ModeCallback{54d7dfe watchinguid=-1 flags=0x0 op=READ_EXTERNAL_STORAGE from uid=u0a184 pid=3477}
+      #1: ModeCallback{54d7dfe watchinguid=-1 flags=0x0 op=READ_EXTERNAL_STORAGE from uid=u0a184 pid=3477}
+      #1: ModeCallback{54d7dfe watchinguid=-1 flags=0x0 op=READ_EXTERNAL_STORAGE from uid=u0a184 pid=3477}
+      #0: ModeCallback{54d7dfe watchinguid=-1 ...
+Status: SAFE
+----------------------------------------
+
+[APPS] Security Tools Detected
+Command: pm list packages | grep -E 'org.mobsf|com.offsec.nethunter|de.robv.android.xposed'
+Description: Pentest frameworks or hacking tools found
+Result: 
+Status: SAFE
+----------------------------------------
+
+[APPS] APK Signature Path Check
+Command: pm list packages -f | grep .apk | head -n 1
+Description: Checks for valid APK path info
+Result: package:/system/system_ext/priv-app/QuickAccessWallet/QuickAccessWallet.apk=com.android.systemui.plugin.globalactions.wallet
+Status: SAFE
+----------------------------------------
+
+[APPS] Suspicious APK Names
+Command: pm list packages | grep -Ei 'hacker|spy|monitor|remote|keylog|shell' | grep -v 'com.android.shell'
+Description: Packages with suspicious names
+Result: 
+Status: SAFE
+----------------------------------------
+
+[APPS] Debuggable Apps (Strict)
+Command: for pkg in $(pm list packages -3 2>/dev/null | cut -d: -f2 | head -20); do dumpsys package $pkg 2>/dev/null | grep -q 'DEBUGGABLE' && echo $pkg; done
+Description: Third-party apps with debuggable flag enabled
+Result: 
+Status: SAFE
+----------------------------------------
+
+[APPS] APK Signature Verification
+Command: dumpsys package verification | grep 'verified=true'
+Description: APK signatures must be verified [⚠ Manual verification required - empty/unsupported output]
+Result: (No output - command may not be supported on this device)
+Status: VERIFY
+----------------------------------------
+
+[APPS] Dynamic Code Loading
+Command: pm list packages | grep -E 'dexopt|dynamic'
+Description: Apps should not use dynamic code loading (security risk)
+Result: 
+Status: SAFE
+----------------------------------------
+
+[APPS] Installed Automotive Apps
+Command: pm list packages 2>/dev/null | grep -iE 'car|auto|vehicle|obd|drive|navigation' | head -15
+Description: Automotive-related applications installed
+Result: package:com.android.systemui.auto_generated_rro_vendor__
+package:com.android.carrierconfig.auto_generated_rro_vendor__
+package:com.android.dialer.auto_generated_rro_vendor__
+package:com.android.storagemanager.auto_generated_rro_product__
+package:android.auto_generated_rro_vendor__
+package:com.android.devicediagnostics.auto_generated_rro_product__
+package:org.lineageos.lineagesettings.auto_generated_rro_product__
+package:com.android.emergency.auto_generated_rro_product__
+package:com.android.launc...
+Status: SAFE
+----------------------------------------
+
+[APPS] OEM Vehicle Apps
+Command: pm list packages 2>/dev/null | grep -iE 'toyota|honda|ford|gm|bmw|mercedes|audi|vw|tesla|hyundai|kia|nissan|mazda|subaru' | head -10
+Description: OEM-specific vehicle apps
+Result: package:com.mtg.gmssettingsoverlay
+package:com.mtg.gmssettingsprovideroverlay
+package:com.google.android.gm.exchange
+package:com.mtg.gmsoverlay
+package:org.lineageos.audiofx
+package:com.google.android.gms
+package:com.mtg.gmssetupwizardoverlay
+Status: SAFE
+----------------------------------------
+
+[APPS] Third-Party OBD Apps
+Command: pm list packages 2>/dev/null | grep -iE 'torque|carscanner|obdeleven|carly|forscan|bimmercode' | head -5
+Description: Third-party OBD diagnostic apps - can read vehicle data
+Result: 
+Status: SAFE
+----------------------------------------
+
+[APPS] Navigation Apps
+Command: pm list packages 2>/dev/null | grep -iE 'maps|waze|here|tomtom|sygic|navigation' | head -5
+Description: Navigation applications tracking location
+Result: 
+Status: INFO
+----------------------------------------
+
+[APPS] Apps with VEHICLE Permissions
+Command: for perm in CAR_INFO CAR_EXTERIOR_ENVIRONMENT CAR_SPEED CAR_MILEAGE; do echo "==$perm=="; dumpsys package 2>/dev/null | grep -B5 "android.car.permission.$perm" | grep 'Package \[' | head -2; done 2>/dev/null
+Description: Apps with vehicle data access permissions
+Result: ==CAR_INFO==
+==CAR_EXTERIOR_ENVIRONMENT==
+==CAR_SPEED==
+==CAR_MILEAGE==
+Status: SAFE
+----------------------------------------
+
+[APPS] System Apps with Car Privileges
+Command: pm list packages -s 2>/dev/null | grep -iE 'car|vehicle|automotive' | head -10
+Description: System-level automotive applications
+Result: package:com.android.carrierconfig.auto_generated_rro_vendor__
+package:com.android.carrierdefaultapp
+package:com.android.carrierconfig
+Status: SAFE
+----------------------------------------
+
+[APPS] Medical/Healthcare Apps Detected
+Command: pm list packages 2>/dev/null | grep -iE 'medical|health|patient|clinical|diagnostic|therapy|monitor|vital|ecg|ekg|pulse|oximeter|glucose|insulin|infusion|ventilator|imaging|dicom|pacs|ehr|emr|epic|cerner' | head -15
+Description: Medical/healthcare applications installed - device may handle PHI
+Result: package:com.android.devicediagnostics.auto_generated_rro_product__
+package:com.android.healthconnect.controller
+package:com.android.devicediagnostics
+package:com.android.health.connect.backuprestore
+package:com.android.wallpaper.livepicker
+Status: SAFE
+----------------------------------------
+
+[APPS] FDA/Medical Build Properties
+Command: getprop 2>/dev/null | grep -iE 'medical|fda|iec|hipaa|clinical|regulated' | head -5
+Description: Medical/regulatory build properties set by manufacturer
+Result: 
+Status: INFO
+----------------------------------------
+
+[APPS] Device Classification Properties
+Command: getprop ro.product.device 2>/dev/null; getprop ro.product.model 2>/dev/null; getprop ro.product.manufacturer 2>/dev/null
+Description: Device identification - document for regulatory purposes
+Result: OnePlus6T
+ONEPLUS A6013
+OnePlus
+Status: SAFE
+----------------------------------------
+
+[APPS] Root Access (su)
+Command: su -c 'id' 2>/dev/null | grep -q 'uid=0' && echo 'ROOT_ACTIVE' || which su 2>/dev/null | grep -v '/system/bin/su'
+Description: Check for actual root shell access (excludes Samsung system su)
+Result: ROOT_ACTIVE
+Status: CRITICAL
+----------------------------------------
+
+[APPS] Running Services Count
+Command: dumpsys activity services | grep -E 'package|process' | wc -l
+Description: Running services on device
+Result: 377
+Status: SAFE
+----------------------------------------
+
+[APPS] Frida Detected
+Command: pm list packages | grep frida
+Description: Frida binary indicates runtime manipulation
+Result: 
+Status: SAFE
+----------------------------------------
+
+[APPS] Magisk Detected
+Command: pm list packages | grep magisk
+Description: Magisk can hide root access
+Result: package:com.topjohnwu.magisk
+Status: CRITICAL
+----------------------------------------
+
+[APPS] Xposed Framework
+Command: pm list packages | grep xposed
+Description: Xposed framework enables deep system tweaks
+Result: 
+Status: SAFE
+----------------------------------------
+
+[APPS] Unapproved APKs in /data/local/tmp
+Command: ls /data/local/tmp/*.apk 2>/dev/null
+Description: Unauthorized sideloading or testing APKs
+Result: 
+Status: SAFE
+----------------------------------------
+
+[APPS] Running Services List
+Command: ps -A 2>/dev/null | grep -vE 'ps|grep' | awk '{print $NF}' | sort | uniq | head -30
+Description: All running processes - review for unnecessary services
+Result: .adservices
+.qtidataservices
+NAME
+[CDSP_CMD]
+[CDSP_CNTL]
+[CDSP_DATA]
+[CDSP_DCI]
+[CDSP_DCI_CMD]
+[DIAG_CMD]
+[DIAG_CNTL_SOCKE]
+[DIAG_CTRL]
+[DIAG_DATA]
+[DIAG_DCI_CMD]
+[DIAG_DCI_DATA]
+[DIAG_GLINK_DIAG]
+[DIAG_USB_diag]
+[IPCRTR_cdsp_sme]
+[IPCRTR_lpass_sm]
+[LPASS_CMD]
+[LPASS_CNTL]
+[LPASS_DATA]
+[LPASS_DCI]
+[LPASS_DCI_CMD]
+[MODEM_CMD]
+[MODEM_CNTL]
+[MODEM_DATA]
+[MODEM_DCI]
+[MODEM_DCI_CMD]
+[SENSORS_CMD]
+[SENSORS_CNTL]
+Status: SAFE
+----------------------------------------
+
+[APPS] Web Server Process
+Command: ps -A 2>/dev/null | grep -iE 'nginx|apache|httpd|lighttpd|busybox.*httpd|boa|goahead|uhttpd'
+Description: Web server running - potential attack surface
+Result: 
+Status: SAFE
+----------------------------------------
+
+[APPS] Telnet Daemon
+Command: ps -A 2>/dev/null | grep -iE 'telnetd|busybox.*telnet'
+Description: Telnet daemon running - INSECURE!
+Result: 
+Status: SAFE
+----------------------------------------
+
+[APPS] FTP Daemon
+Command: ps -A 2>/dev/null | grep -iE 'ftpd|vsftpd|proftpd|busybox.*ftp'
+Description: FTP daemon running - credentials in plaintext!
+Result: 
+Status: SAFE
+----------------------------------------
+
+[APPS] SSH Daemon
+Command: ps -A 2>/dev/null | grep -iE 'sshd|dropbear'
+Description: SSH daemon running
+Result: 
+Status: INFO
+----------------------------------------
+
+[APPS] MQTT Client/Broker
+Command: ps -A 2>/dev/null | grep -iE 'mosquitto|mqtt|paho'
+Description: MQTT service running
+Result: 
+Status: INFO
+----------------------------------------
+
+[APPS] Node.js/Python Services
+Command: ps -A 2>/dev/null | grep -iE 'node|python|python3'
+Description: Script-based services running
+Result: 
+Status: INFO
+----------------------------------------
+
+[APPS] Database Services
+Command: ps -A 2>/dev/null | grep -iE 'mysql|mariadb|postgres|sqlite|mongodb|redis'
+Description: Database services running
+Result: 
+Status: INFO
+----------------------------------------
+
+[APPS] Docker/Container Runtime
+Command: ps -A 2>/dev/null | grep -iE 'docker|containerd|runc'
+Description: Container runtime detected
+Result: 
+Status: INFO
+----------------------------------------
+
+[APPS] Init System Type
+Command: cat /proc/1/comm 2>/dev/null
+Description: Init system (systemd/init/busybox)
+Result: init
+Status: SAFE
+----------------------------------------
+
+[APPS] Custom IoT Daemons
+Command: ps -A 2>/dev/null | grep -vE 'system_server|surfaceflinger|zygote|android|google|samsung|com\.' | grep -E 'd$|daemon|service' | head -10
+Description: Non-Android services/daemons running
+Result: root           535     1   10883516   6148 poll_schedule_timeout 0 S ueventd
+logd           654     1   10945516   5400 sigsuspend          0 S logd
+system         656     1   10849388   4312 SyS_epoll_wait      0 S servicemanager
+system         657     1   10820292   5132 SyS_epoll_wait      0 S hwservicemanager
+system         658     1   10860452   3524 SyS_epoll_wait      0 S vndservicemanager
+system         669     1   10872864   3600 binder_ioctl_write_read 0 S vendor.qti.hardware.qseecom@1...
+Status: SAFE
+----------------------------------------
+
+[APPS] Camera Permission Apps
+Command: pm list packages -p android.permission.CAMERA 2>/dev/null | head -20
+Description: Apps with camera permission
+Result: Error: Unknown option: -p
+Status: SAFE
+----------------------------------------
+
+[APPS] Microphone Permission Apps
+Command: pm list packages -p android.permission.RECORD_AUDIO 2>/dev/null | head -20
+Description: Apps with microphone permission
+Result: Error: Unknown option: -p
+Status: SAFE
+----------------------------------------
+
+[APPS] Location Permission Apps
+Command: pm list packages -p android.permission.ACCESS_FINE_LOCATION 2>/dev/null | head -20
+Description: Apps with fine location permission
+Result: Error: Unknown option: -p
+Status: SAFE
+----------------------------------------
+
+[APPS] SMS Permission Apps
+Command: pm list packages -p android.permission.SEND_SMS 2>/dev/null | head -20
+Description: Apps with SMS sending permission
+Result: Error: Unknown option: -p
+Status: SAFE
+----------------------------------------
+
+[APPS] Contacts Permission Apps
+Command: pm list packages -p android.permission.READ_CONTACTS 2>/dev/null | head -20
+Description: Apps with contacts read permission
+Result: Error: Unknown option: -p
+Status: SAFE
+----------------------------------------
+
+[APPS] Unknown Sources Disabled
+Command: settings get secure install_non_market_apps
+Description: Installing from unknown sources should be disabled
+Result: 1
+Status: CRITICAL
+----------------------------------------
+
+[APPS] Package Verifier Enabled
+Command: settings get global package_verifier_enable
+Description: Package verification should be enabled [⚠ Manual verification required - value is NULL]
+Result: null (Setting may not exist or is not configured)
+Status: VERIFY
+----------------------------------------
+
+[APPS] Verify Apps Over USB
+Command: settings get global verifier_verify_adb_installs
+Description: Verify apps installed via ADB [⚠ Manual verification required - value is NULL]
+Result: null (Setting may not exist or is not configured)
+Status: VERIFY
+----------------------------------------
+
+[APPS] Play Protect Enabled
+Command: settings get global package_verifier_user_consent
+Description: Google Play Protect consent status
+Result: 1
+Status: SAFE
+----------------------------------------
+
+[APPS] Install via ADB Blocked
+Command: settings get global install_allow_adb
+Description: Block app installation via ADB
+Result: null
+Status: SAFE
+----------------------------------------
+
+[APPS] Permission Controller Version
+Command: dumpsys package com.google.android.permissioncontroller 2>/dev/null | grep versionName | head -1
+Description: Permission controller app version
+Result: 
+Status: INFO
+----------------------------------------
+
+[APPS] Auto Revoke Unused Permissions
+Command: settings get global auto_revoke_permissions_mode
+Description: Auto-revoke permissions for unused apps [⚠ Manual verification required - value is NULL]
+Result: null (Setting may not exist or is not configured)
+Status: VERIFY
+----------------------------------------
+
+[APPS] Background Location Apps
+Command: appops query-op --uid android.permission.ACCESS_BACKGROUND_LOCATION 2>/dev/null | head -10
+Description: Apps with background location access [⚠ Manual verification required - empty/unsupported output]
+Result: (No output - command may not be supported on this device)
+Status: VERIFY
+----------------------------------------
+
+[APPS] Camera Apps Running
+Command: dumpsys camera 2>/dev/null | grep -i 'client' | head -5
+Description: Apps currently using camera
+Result: 
+Status: INFO
+----------------------------------------
+
+[APPS] Overlay Permission (SYSTEM_ALERT_WINDOW)
+Command: DUMP=$(dumpsys package 2>/dev/null); for pkg in $(pm list packages -3 2>/dev/null | cut -d: -f2 | head -30); do echo "$DUMP" | grep -A200 "Package.*$pkg" | head -200 | grep -q 'SYSTEM_ALERT_WINDOW.*granted=true' && echo "OVERLAY: $pkg"; done
+Description: Third-party apps with draw-over-other-apps permission - enables phishing overlay attacks on POS/banking screens
+Result: 
+Status: SAFE
+----------------------------------------
+
+[APPS] Current Foreground Window
+Command: dumpsys window windows 2>/dev/null | grep -E 'mCurrentFocus|mFocusedApp' | head -5
+Description: Currently focused window and app - useful for detecting active overlay attacks in real-time
+Result: 
+Status: INFO
+----------------------------------------
+
+[APPS] Backup-Enabled Apps (allowBackup)
+Command: for pkg in $(pm list packages -3 2>/dev/null | cut -d: -f2 | head -20); do dumpsys package $pkg 2>/dev/null | grep -q 'allowBackup=true' && echo "BACKUP_ON: $pkg"; done
+Description: Third-party apps with allowBackup=true - ADB backup can extract app data including credentials and tokens
+Result: 
+Status: SAFE
+----------------------------------------
+
+[BLUETOOTH] Bluetooth Enabled
+Command: settings get global bluetooth_on
+Description: NIST recommends disabling Bluetooth when not in use (SC-8)
+Result: 1
+Status: WARNING
+----------------------------------------
+
+[BLUETOOTH] Discoverable Mode
+Command: settings get global bluetooth_discoverability
+Description: Device should not be discoverable (AC-18)
+Result: null
+Status: SAFE
+----------------------------------------
+
+[BLUETOOTH] Secure Pairing Mode
+Command: dumpsys bluetooth_manager | grep 'Pairing mode:'
+Description: Only secure pairing modes should be allowed (NIST IA-2) [⚠ Manual verification required - empty/unsupported output]
+Result: (No output - command may not be supported on this device)
+Status: VERIFY
+----------------------------------------
+
+[BLUETOOTH] Bluetooth Encryption
+Command: dumpsys bluetooth_manager | grep 'Encryption:'
+Description: Bluetooth encryption must be enabled (SC-13) [⚠ Manual verification required - empty/unsupported output]
+Result: (No output - command may not be supported on this device)
+Status: VERIFY
+----------------------------------------
+
+[BLUETOOTH] Authentication Required
+Command: dumpsys bluetooth_manager | grep 'Authentication:'
+Description: Authentication must be required for pairing (IA-2) [⚠ Manual verification required - empty/unsupported output]
+Result: (No output - command may not be supported on this device)
+Status: VERIFY
+----------------------------------------
+
+[BLUETOOTH] MAC Randomization
+Command: settings get secure bluetooth_address | grep -E '([0-9A-F]{2}:){5}[0-9A-F]{2}'
+Description: Static MAC addresses should be avoided (SC-8(1))
+Result: 64:A2:F9:CC:6D:A3
+Status: WARNING
+----------------------------------------
+
+[BLUETOOTH] Paired Devices Count
+Command: dumpsys bluetooth_manager | grep 'Bonded devices:' -A 10 | grep 'Device:' | wc -l
+Description: Review all paired devices (AC-3)
+Result: 0
+Status: SAFE
+----------------------------------------
+
+[BLUETOOTH] HCI Snoop Logging
+Command: settings get secure bluetooth_hci_log
+Description: HCI logging should be disabled in production (AU-12) [⚠ Manual verification required - value is NULL]
+Result: null (Setting may not exist or is not configured)
+Status: VERIFY
+----------------------------------------
+
+[BLUETOOTH] Unnecessary Profiles
+Command: dumpsys bluetooth_manager | grep 'Profile:' | grep -vE 'A2DP|HFP|HSP'
+Description: Disable unused profiles (CM-7)
+Result: Profile: GattService
+Profile: A2dpService
+Profile: AvrcpTargetService:
+Profile: BatteryService
+Profile: HeadsetService
+Profile: HearingAidService
+Profile: HidDeviceService
+Profile: HidHostService
+Profile: BluetoothMapService
+Profile: BluetoothOppService
+Profile: PanService
+Profile: BluetoothPbapService
+Profile: SapService
+Status: WARNING
+----------------------------------------
+
+[BLUETOOTH] LE Security Mode
+Command: dumpsys bluetooth_manager | grep 'LE Security Mode:'
+Description: LE should use Mode 2 (Secure Connections) or higher (SC-13) [⚠ Manual verification required - empty/unsupported output]
+Result: (No output - command may not be supported on this device)
+Status: VERIFY
+----------------------------------------
+
+[BLUETOOTH] Bluetooth Version
+Command: getprop ro.bluetooth.version
+Description: Bluetooth version should be 5.0 or newer for enhanced features
+Result: 
+Status: INFO
+----------------------------------------
+
+[BLUETOOTH] Just Works Pairing
+Command: dumpsys bluetooth_manager | grep -i 'Just Works'
+Description: Just Works insecure pairing method should not be enabled (IA-2)
+Result: 
+Status: SAFE
+----------------------------------------
+
+[BLUETOOTH] Link Key Strength
+Command: dumpsys bluetooth_manager | grep -i 'Key Length'
+Description: Link encryption key length must be at least 128 bits (IA-5) [⚠ Manual verification required - empty/unsupported output]
+Result: (No output - command may not be supported on this device)
+Status: VERIFY
+----------------------------------------
+
+[BLUETOOTH] Bluetooth Debugging Interface
+Command: dumpsys bluetooth_manager | grep -i 'Debug.*true'
+Description: Bluetooth debugging interfaces must be disabled in production (CM-6)
+Result: 
+Status: SAFE
+----------------------------------------
+
+[BLUETOOTH] Secure Simple Pairing (SSP)
+Command: dumpsys bluetooth_manager 2>/dev/null | grep -iq 'Secure Simple Pairing.*Enabled' && echo Enabled || echo Disabled
+Description: Checks if SSP is enabled (downgrade attacks like KNOB are prevented).
+Result: Disabled
+Status: WARNING
+----------------------------------------
+
+[BLUETOOTH] Bluedroid Stack Active
+Command: [ $(getprop ro.bluetooth.stack 2>/dev/null | grep -i bluedroid | wc -l) -gt 0 ] && echo VULNERABLE || echo SAFE
+Description: Detects if Bluedroid stack is active (BlueBorne vulnerable; upgrade to Fluoride recommended).
+Result: SAFE
+Status: SAFE
+----------------------------------------
+
+[BLUETOOTH] Bluetooth Firmware Files
+Command: ls /vendor/firmware/bluetooth* /system/etc/firmware/bluetooth* 2>/dev/null | wc -l
+Description: Checks for signed Bluetooth firmware blobs (missing may mean tampering or custom build).
+Result: 0
+Status: WARNING
+----------------------------------------
+
+[BLUETOOTH] Raw Radio Device Nodes
+Command: ls /dev/radio* /dev/hci* 2>/dev/null | wc -l
+Description: Exposes low-level radio nodes. Presence may indicate increased attack surface.
+Result: 0
+Status: SAFE
+----------------------------------------
+
+[BLUETOOTH] bluetoothd Hardening
+Command: (ps -A -o cmd 2>/dev/null | grep -E 'bluetoothd|bluetooth' | grep -q -- -n) && echo HARDENED || echo UNPROTECTED
+Description: Checks if the Bluetooth daemon runs in hardened (no-privilege) mode.
+Result: UNPROTECTED
+Status: WARNING
+----------------------------------------
+
+[BLUETOOTH] BR/EDR Secure Connections
+Command: settings get global bluetooth_br_edr_secure_connections 2>/dev/null | grep -q '^1$' && echo Enforced || echo NotEnforced
+Description: Should return 'Enforced' to guarantee strong encryption (prevents KNOB attack).
+Result: NotEnforced
+Status: SAFE
+----------------------------------------
+
+[BLUETOOTH] SELinux Bluetooth Policy
+Command: (ls -Z /system/bin/bluetooth* 2>/dev/null | grep -q 'bluetooth:s0') && echo RESTRICTIVE || echo PERMISSIVE
+Description: SELinux domain for Bluetooth should be restrictive to prevent privilege escalation.
+Result: PERMISSIVE
+Status: WARNING
+----------------------------------------
+
+[BLUETOOTH] BLE MAC Randomization
+Command: VAR=$(settings get global bluetooth_address_rotation_enabled 2>/dev/null); if [ -z "$VAR" ]; then echo NotSupported; elif [ "$VAR" = "1" ]; then echo Enabled; else echo Disabled; fi
+Description: Should be enabled to randomize BLE MAC (prevents device tracking/leakage).
+Result: Disabled
+Status: INFO
+----------------------------------------
+
+[BLUETOOTH] Legacy Bluetooth Profiles
+Command: dumpsys bluetooth_manager | grep -E 'OBEX|PAN|SAP'
+Description: Legacy profiles can expose device to known CVEs—disable if not needed.
+Result: PAN
+  SAP
+shim::btm  2026-02-18 00:56:02.886 PAN    Registered               : 00:00:00:00:00:00 
+shim::btm  2026-02-18 00:56:02.886 PAN    Role change              : 00:00:00:00:00:00 role:0x5
+Status: WARNING
+----------------------------------------
+
+[BLUETOOTH] Custom Vendor Bluetooth Binaries
+Command: ls /vendor/lib*/hw/bluetooth* /system/lib*/hw/bluetooth* 2>/dev/null | wc -l
+Description: Lists vendor or custom Bluetooth libraries (review for supply chain risk).
+Result: 0
+Status: INFO
+----------------------------------------
+
+[BLUETOOTH] Bluetooth Stack Version
+Command: dumpsys package com.android.bluetooth | grep versionName
+Description: Review the version of the Bluetooth stack package.
+Result: versionName=15
+Status: SAFE
+----------------------------------------
+
+[BLUETOOTH] Bluetooth Service Crashes
+Command: logcat -d -b crash | grep -i bluetooth | tail -n 5
+Description: Recent crashes in Bluetooth stack may indicate exploits or instability.
+Result: 
+Status: SAFE
+----------------------------------------
+
+[BLUETOOTH] Scan Always Available
+Command: settings get global ble_scan_always_enabled
+Description: Should be disabled to prevent background BLE scanning (privacy risk). [⚠ Manual verification required - value is NULL]
+Result: null (Setting may not exist or is not configured)
+Status: VERIFY
+----------------------------------------
+
+[BLUETOOTH] Apps with BLUETOOTH Permission
+Command: pm list permissions -g -d | grep -A1 'BLUETOOTH$' | grep -c 'package:'
+Description: Too many apps with BLUETOOTH permission increases risk.
+Result: 0
+Status: WARNING
+----------------------------------------
+
+[BLUETOOTH] Bluetooth Debug Properties
+Command: getprop | grep -i bluetooth | grep -i debug
+Description: Debug properties for Bluetooth should not be set on production.
+Result: [init.svc_debug_pid.vendor.bluetooth-1-0-qti]: [1097]
+Status: INFO
+----------------------------------------
+
+[BOOT_SECURITY] SELinux Mode
+Command: getenforce 2>/dev/null
+Description: SELinux must be Enforcing - Permissive allows policy bypass
+Result: Enforcing
+Status: SAFE
+----------------------------------------
+
+[BOOT_SECURITY] Verified Boot State (Build Property)
+Command: getprop ro.boot.verifiedbootstate 2>/dev/null
+Description: Verified boot should be 'green' (fully verified chain)
+Result: orange
+Status: CRITICAL
+----------------------------------------
+
+[BOOT_SECURITY] vbmeta Device State
+Command: getprop ro.boot.vbmeta.device_state
+Description: vbmeta device_state must be locked [⚠ Manual verification required - empty/unsupported output]
+Result: (No output - command may not be supported on this device)
+Status: VERIFY
+----------------------------------------
+
+[BOOT_SECURITY] AVB Version Present
+Command: getprop ro.boot.avb_version
+Description: AVB version should be present
+Result: 1.3
+Status: SAFE
+----------------------------------------
+
+[BOOT_SECURITY] avbctl Present
+Command: command -v avbctl >/dev/null 2>&1 && echo present || echo absent
+Description: avbctl binary available for rollback checks
+Result: absent
+Status: INFO
+----------------------------------------
+
+[BOOT_SECURITY] Rollback Index (slot 0) > 0
+Command: command -v avbctl >/dev/null 2>&1 && avbctl get-rollback-index 0 2>/dev/null | awk '{print $NF}' || echo 0
+Description: Anti-rollback index should be > 0 (slot 0) (INFO if avbctl unavailable)
+Result: 0
+Status: INFO
+----------------------------------------
+
+[BOOT_SECURITY] Rollback Index (slot 1) > 0
+Command: command -v avbctl >/dev/null 2>&1 && avbctl get-rollback-index 1 2>/dev/null | awk '{print $NF}' || echo 0
+Description: Anti-rollback index should be > 0 (slot 1) (INFO if avbctl unavailable)
+Result: 0
+Status: INFO
+----------------------------------------
+
+[BOOT_SECURITY] OEM Unlock Allowed
+Command: getprop sys.oem_unlock_allowed
+Description: Should be disabled to prevent unlock [⚠ Manual verification required - empty/unsupported output]
+Result: (No output - command may not be supported on this device)
+Status: VERIFY
+----------------------------------------
+
+[BOOT_SECURITY] Safe Mode
+Command: getprop persist.sys.safemode
+Description: Should not be running in Safe Mode
+Result: 
+Status: INFO
+----------------------------------------
+
+[BOOT_SECURITY] FRP Policy
+Command: settings get global frp_policy
+Description: Factory Reset Protection should be enabled [⚠ Manual verification required - value is NULL]
+Result: null (Setting may not exist or is not configured)
+Status: VERIFY
+----------------------------------------
+
+[BOOT_SECURITY] ADB Over Wi-Fi
+Command: settings get global adb_wifi_enabled
+Description: Risky if enabled
+Result: 0
+Status: SAFE
+----------------------------------------
+
+[BOOT_SECURITY] Bootloader Locked
+Command: getprop ro.boot.flash.locked
+Description: 1 means locked bootloader; 0 means unlocked [⚠ Manual verification required - empty/unsupported output]
+Result: (No output - command may not be supported on this device)
+Status: VERIFY
+----------------------------------------
+
+[BOOT_SECURITY] Fastboot Unlock Allowed
+Command: getprop ro.oem_unlock_supported
+Description: Fastboot OEM unlock must be disabled [⚠ Manual verification required - empty/unsupported output]
+Result: (No output - command may not be supported on this device)
+Status: VERIFY
+----------------------------------------
+
+[BOOT_SECURITY] OEM Unlock Disabled (Global Setting)
+Command: settings get global oem_unlock_allowed 2>/dev/null
+Description: OEM unlock should be disallowed by policy (0) [⚠ Manual verification required - value is NULL]
+Result: null (Setting may not exist or is not configured)
+Status: VERIFY
+----------------------------------------
+
+[BOOT_SECURITY] FRP Partition Path Set
+Command: getprop ro.frp.pst
+Description: Factory Reset Protection partition path configured
+Result: /dev/block/bootdevice/by-name/config
+Status: SAFE
+----------------------------------------
+
+[BOOT_SECURITY] Verity Mode (cmdline)
+Command: grep -o 'androidboot.veritymode=[^ ]*' /proc/cmdline | cut -d= -f2
+Description: dm-verity should be enforcing [⚠ Manual verification required - empty/unsupported output]
+Result: (No output - command may not be supported on this device)
+Status: VERIFY
+----------------------------------------
+
+[BOOT_SECURITY] dm-verity-backed Partitions Mounted
+Command: mount | grep '/dm-' | grep -E 'ext4|f2fs' | wc -l
+Description: At least one partition should be backed by dm-verity
+Result: 44
+Status: SAFE
+----------------------------------------
+
+[BOOT_SECURITY] AVB/Verity Success in dmesg
+Command: dmesg 2>/dev/null | grep -iE 'avb.*(success|green)|dm-verity:.*(enabled|ready|using)' | wc -l
+Description: Kernel logs should show AVB/verity success (if accessible)
+Result: 0
+Status: INFO
+----------------------------------------
+
+[BOOT_SECURITY] Test-keys Build
+Command: getprop ro.build.fingerprint
+Description: Test-keys in fingerprint indicates insecure engineering/debug build
+Result: OnePlus/OnePlus6T/OnePlus6T:11/RKQ1.201217.002/2111252327:user/release-keys
+Status: SAFE
+----------------------------------------
+
+[BOOT_SECURITY] Boot Image Tampered
+Command: ls -l /init /init.rc
+Description: Check for unusual file sizes or dates
+Result: lrwxr-x--- 1 root shell 16 2009-01-01 05:30 /init -> /system/bin/init
+
+ls: /init.rc: No such file or directory
+Status: SAFE
+----------------------------------------
+
+[BOOT_SECURITY] System Partition Tampering
+Command: lsattr /system/bin/app_process* 2>/dev/null
+Description: Detects immutability or possible tampering
+Result: --------------e----- /system/bin/app_process
+--------------e----- /system/bin/app_process32
+--------------e----- /system/bin/app_process64
+Status: SAFE
+----------------------------------------
+
+[CERTIFICATE_AUDIT] System CA Certificate Count
+Command: ls /system/etc/security/cacerts/ 2>/dev/null | wc -l
+Description: Count of system CA certificates in trust store
+Result: 145
+Status: SAFE
+----------------------------------------
+
+[CERTIFICATE_AUDIT] User-Installed Certificates
+Command: ls /data/misc/user/0/cacerts-added/ 2>/dev/null | wc -l
+Description: User-installed CA certificates (potential MITM risk) - should be 0
+Result: 0
+Status: SAFE
+----------------------------------------
+
+[CERTIFICATE_AUDIT] User Certificate Files
+Command: ls -la /data/misc/user/0/cacerts-added/ 2>/dev/null
+Description: List of user-installed certificates - should be empty
+Result: 
+Status: SAFE
+----------------------------------------
+
+[CERTIFICATE_AUDIT] Certificate Pinning Bypass Apps
+Command: pm list packages 2>/dev/null | grep -iE 'sslunpin|trustme|justtrustme|unpinner|certpinner'
+Description: Apps that bypass certificate pinning - should not be installed
+Result: 
+Status: SAFE
+----------------------------------------
+
+[CERTIFICATE_AUDIT] Network Security Config Files
+Command: find /data/app -name 'network_security_config.xml' 2>/dev/null | head -5
+Description: Apps with custom network security configuration
+Result: 
+Status: INFO
+----------------------------------------
+
+[CERTIFICATE_AUDIT] Hardware Keystore Type
+Command: getprop ro.hardware.keystore 2>/dev/null
+Description: Hardware keystore implementation type
+Result: 
+Status: INFO
+----------------------------------------
+
+[CERTIFICATE_AUDIT] Keystore Credentials Count
+Command: ls /data/misc/keystore/user_0/ 2>/dev/null | wc -l
+Description: Keystore credential entries count
+Result: 0
+Status: SAFE
+----------------------------------------
+
+[CERTIFICATE_AUDIT] VPN Lockdown Mode
+Command: settings get global always_on_vpn_lockdown 2>/dev/null
+Description: VPN lockdown mode requiring certificate [⚠ Manual verification required - value is NULL]
+Result: null (Setting may not exist or is not configured)
+Status: VERIFY
+----------------------------------------
+
+[CERTIFICATE_AUDIT] Conscrypt TLS Provider
+Command: pm list packages 2>/dev/null | grep conscrypt
+Description: Google Conscrypt TLS provider installed
+Result: 
+Status: INFO
+----------------------------------------
+
+[CERTIFICATE_AUDIT] HTTP Proxy Configured
+Command: settings get global http_proxy 2>/dev/null
+Description: HTTP proxy configured - may intercept HTTPS traffic
+Result: null
+Status: SAFE
+----------------------------------------
+
+[CERTIFICATE_AUDIT] Global Proxy Host
+Command: settings get global global_http_proxy_host 2>/dev/null
+Description: Global HTTP proxy host - may intercept traffic
+Result: null
+Status: SAFE
+----------------------------------------
+
+[CIS_BENCHMARK] CIS 1.3 - Pattern Visibility Disabled
+Command: settings get secure lock_pattern_visible 2>/dev/null
+Description: CIS 1.3: Ensure 'Make pattern visible' is set to 'Disabled' to prevent shoulder surfing attacks
+Result: null
+Status: SAFE
+----------------------------------------
+
+[CIS_BENCHMARK] CIS 1.5 - Power Button Instantly Locks
+Command: settings get secure lock_screen_lock_after_timeout 2>/dev/null
+Description: CIS 1.5: Ensure 'Power button instantly locks' is set to 'Enabled' for immediate device locking [⚠ Manual verification required - value is NULL]
+Result: null (Setting may not exist or is not configured)
+Status: VERIFY
+----------------------------------------
+
+[CIS_BENCHMARK] CIS 1.6 - Lock Screen Owner Info Set
+Command: settings get secure lock_screen_owner_info_enabled 2>/dev/null
+Description: CIS 1.6: Ensure 'Lock Screen Message' is configured for device identification and emergency contact [⚠ Manual verification required - value is NULL]
+Result: null (Setting may not exist or is not configured)
+Status: VERIFY
+----------------------------------------
+
+[CIS_BENCHMARK] CIS 1.6 - Lock Screen Message Content
+Command: settings get secure lock_screen_owner_info 2>/dev/null
+Description: CIS 1.6: Lock screen message should contain emergency contact or corporate info [⚠ Manual verification required - value is NULL]
+Result: null (Setting may not exist or is not configured)
+Status: VERIFY
+----------------------------------------
+
+[CIS_BENCHMARK] CIS 1.13 - Find My Device Enabled
+Command: settings get secure find_my_device 2>/dev/null
+Description: CIS 1.13: Ensure 'Find My Device' is set to 'Enabled' for remote locate, lock, and erase capabilities [⚠ Manual verification required - value is NULL]
+Result: null (Setting may not exist or is not configured)
+Status: VERIFY
+----------------------------------------
+
+[CIS_BENCHMARK] CIS 1.16 - Device Admin Apps (Remote Wipe)
+Command: dumpsys device_policy 2>/dev/null | grep -c 'admin=' || echo 0
+Description: CIS 1.16: Ensure 'Allow remote lock and erase' is enabled via device admin apps
+Result: 0
+0
+Status: INFO
+----------------------------------------
+
+[CIS_BENCHMARK] CIS 1.18 - Package Verifier Enabled
+Command: settings get global package_verifier_enable 2>/dev/null
+Description: CIS 1.18: Ensure 'Improve harmful app detection' is enabled for enhanced malware scanning [⚠ Manual verification required - value is NULL]
+Result: null (Setting may not exist or is not configured)
+Status: VERIFY
+----------------------------------------
+
+[CIS_BENCHMARK] CIS 1.18 - APK Upload for Scanning
+Command: settings get global upload_apk_enable 2>/dev/null
+Description: CIS 1.18: Unknown APKs sent to Google for analysis to improve harmful app detection
+Result: 1
+Status: SAFE
+----------------------------------------
+
+[CIS_BENCHMARK] CIS 1.19 - Screen Pinning Requires Auth
+Command: settings get secure lock_to_app_exit_locked 2>/dev/null
+Description: CIS 1.19: Ensure 'Ask for PIN/password before unpinning' is enabled when using screen pinning [⚠ Manual verification required - value is NULL]
+Result: null (Setting may not exist or is not configured)
+Status: VERIFY
+----------------------------------------
+
+[CIS_BENCHMARK] CIS 1.21 - Wi-Fi Wakeup Disabled
+Command: settings get global wifi_wakeup_enabled 2>/dev/null
+Description: CIS 1.21: Ensure 'Wi-Fi assistant/wakeup' is disabled to prevent auto-connecting to untrusted networks
+Result: 1
+Status: WARNING
+----------------------------------------
+
+[CIS_BENCHMARK] CIS 1.21 - Network Scoring Disabled
+Command: settings get global network_scoring_provisioned 2>/dev/null
+Description: CIS 1.21: Network scoring for Wi-Fi assistant should be disabled
+Result: null
+Status: SAFE
+----------------------------------------
+
+[CIS_BENCHMARK] CIS 1.22 - App Auto Update Policy
+Command: settings get global app_auto_update_policy 2>/dev/null
+Description: CIS 1.22: App auto-update policy (1=WiFi only, 2=always) should be enabled to keep apps updated [⚠ Manual verification required - value is NULL]
+Result: null (Setting may not exist or is not configured)
+Status: VERIFY
+----------------------------------------
+
+[CIS_BENCHMARK] CIS 1.23 - Add Users From Lock Screen Disabled
+Command: settings get global add_users_when_locked 2>/dev/null
+Description: CIS 1.23: Ensure 'Add users from lock screen' is disabled to prevent unauthorized user creation
+Result: 0
+Status: SAFE
+----------------------------------------
+
+[CIS_BENCHMARK] CIS 1.28 - User Profiles Count
+Command: pm list users 2>/dev/null | wc -l
+Description: CIS 1.28: Review existing user profiles - ideally only 1 primary user should exist
+Result: 2
+Status: INFO
+----------------------------------------
+
+[CIS_BENCHMARK] CIS 2.3 - Web Action Disabled
+Command: settings get secure web_action_enabled 2>/dev/null
+Description: CIS 2.3: Web and App Activity tracking should be disabled for privacy
+Result: null
+Status: SAFE
+----------------------------------------
+
+[CIS_BENCHMARK] CIS 2.3 - Assist Structure Disabled
+Command: settings get secure assist_structure_enabled 2>/dev/null
+Description: CIS 2.3: Assistant structure capture should be disabled for privacy
+Result: null
+Status: SAFE
+----------------------------------------
+
+[CIS_BENCHMARK] CIS 2.4 - Error Reporting Disabled
+Command: settings get secure send_action_app_error 2>/dev/null
+Description: CIS 2.4: Device information/error reporting should be disabled for privacy
+Result: 1
+Status: INFO
+----------------------------------------
+
+[CIS_BENCHMARK] CIS 2.11 - Bluetooth Scanning Disabled
+Command: settings get global ble_scan_always_enabled 2>/dev/null
+Description: CIS 2.11: Ensure 'Bluetooth scanning' is disabled to prevent location tracking via BLE beacons
+Result: null
+Status: SAFE
+----------------------------------------
+
+[CIS_BENCHMARK] CIS 3.1 - Chrome Microphone Permission
+Command: appops get com.android.chrome RECORD_AUDIO 2>/dev/null | grep -o 'allow\|deny\|ask\|ignore' | head -1
+Description: CIS 3.1: Chrome microphone permission should require user confirmation (ask) not auto-allow
+Result: 
+Status: INFO
+----------------------------------------
+
+[CIS_BENCHMARK] CIS 3.2 - Chrome Location Permission
+Command: appops get com.android.chrome COARSE_LOCATION 2>/dev/null | grep -o 'allow\|deny\|ask\|ignore' | head -1
+Description: CIS 3.2: Chrome location permission should require user confirmation (ask) not auto-allow
+Result: 
+Status: INFO
+----------------------------------------
+
+[CRYPTOGRAPHY] Device Encryption
+Command: getprop ro.crypto.state
+Description: Device storage should be encrypted
+Result: encrypted
+Status: SAFE
+----------------------------------------
+
+[CRYPTOGRAPHY] Encryption Type
+Command: getprop ro.crypto.type
+Description: Type of encryption used (file-based or block)
+Result: file
+Status: SAFE
+----------------------------------------
+
+[CRYPTOGRAPHY] Hardware Keystore
+Command: getprop ro.hardware.keystore
+Description: Hardware-backed keystore availability
+Result: 
+Status: INFO
+----------------------------------------
+
+[CRYPTOGRAPHY] Crypto FS State
+Command: getprop vold.decrypt
+Description: Filesystem decryption state
+Result: 
+Status: INFO
+----------------------------------------
+
+[CRYPTOGRAPHY] StrongBox Support
+Command: getprop ro.hardware.keystore_desede
+Description: StrongBox secure element support
+Result: true
+Status: SAFE
+----------------------------------------
+
+[CRYPTOGRAPHY] Hardcoded Passwords in Config
+Command: find /system /vendor /data -type f \( -name '*.conf' -o -name '*.cfg' -o -name '*.ini' -o -name '*.properties' \) -exec grep -l -i 'password\|passwd\|pwd=' {} \; 2>/dev/null | head -10
+Description: Config files containing passwords - CRITICAL
+Result: 
+Status: SAFE
+----------------------------------------
+
+[CRYPTOGRAPHY] API Keys in Files
+Command: find /system /vendor /data -type f \( -name '*.json' -o -name '*.xml' -o -name '*.conf' \) -exec grep -l -iE 'api_key|apikey|api-key|secret_key|secretkey|access_token' {} \; 2>/dev/null | head -10
+Description: Files containing API keys or secrets
+Result: /data/data/com.google.android.setupwizard/shared_prefs/phenotype.xml
+/data/data/com.joeykrim.rootcheck/shared_prefs/com.amazonaws.android.auth.xml
+/data/data/com.google.android.gms/shared_prefs/google_ads_flags.xml
+/data/user/0/com.google.android.setupwizard/shared_prefs/phenotype.xml
+/data/user/0/com.joeykrim.rootcheck/shared_prefs/com.amazonaws.android.auth.xml
+/data/user/0/com.google.android.gms/shared_prefs/google_ads_flags.xml
+Status: CRITICAL
+----------------------------------------
+
+[CRYPTOGRAPHY] Private Keys Exposed
+Command: find /system /vendor /data /sdcard -type f \( -name '*.pem' -o -name '*.key' -o -name '*.p12' -o -name '*.pfx' \) 2>/dev/null | head -10
+Description: Private key files found - should be protected
+Result: /vendor/etc/cacert_location.pem
+/vendor/etc/xtra_root_cert.pem
+Status: CRITICAL
+----------------------------------------
+
+[CRYPTOGRAPHY] SSH Keys on Device
+Command: find /data /sdcard -name 'id_rsa*' -o -name 'id_ed25519*' -o -name 'authorized_keys' 2>/dev/null
+Description: SSH keys found - review if needed
+Result: 
+Status: SAFE
+----------------------------------------
+
+[CRYPTOGRAPHY] Default Credential Files
+Command: find /system /vendor -type f \( -name 'passwd' -o -name 'shadow' -o -name 'credentials*' \) 2>/dev/null
+Description: Credential files in system - check permissions
+Result: /system/product/etc/passwd
+/system/etc/passwd
+/system/system_ext/etc/passwd
+/vendor/etc/passwd
+/vendor/odm/etc/passwd
+Status: CRITICAL
+----------------------------------------
+
+[CRYPTOGRAPHY] Hardcoded URLs with Credentials
+Command: find /system /vendor /data -type f \( -name '*.conf' -o -name '*.json' -o -name '*.xml' \) -exec grep -l -E 'https?://[^:]+:[^@]+@' {} \; 2>/dev/null | head -5
+Description: URLs with embedded credentials found
+Result: /system/product/etc/apns-conf.xml
+Status: CRITICAL
+----------------------------------------
+
+[CRYPTOGRAPHY] Database Files with Potential Secrets
+Command: find /data -name '*.db' -o -name '*.sqlite' 2>/dev/null | head -10
+Description: Database files - may contain sensitive data
+Result: /data/data/no.nordicsemi.android.mcp/databases/local_log.db
+/data/data/no.nordicsemi.android.mcp/databases/mcp.db
+/data/data/com.google.android.syncadapters.calendar/databases/pseudonymous_room_notifications.db
+/data/data/com.google.android.syncadapters.calendar/databases/v33raiot@gmail.com_room_notifications.db
+/data/data/com.google.android.syncadapters.calendar/databases/1_threads.notifications.db
+/data/data/com.google.android.syncadapters.calendar/databases/-1_threads.notifications.db
+/data/d...
+Status: SAFE
+----------------------------------------
+
+[DEVICE_MANAGEMENT] User Accounts Count
+Command: pm list users 2>/dev/null | wc -l
+Description: Multiple users may have different security levels
+Result: 2
+Status: SAFE
+----------------------------------------
+
+[DEVICE_MANAGEMENT] Guest Account Exists
+Command: pm list users 2>/dev/null | grep -i guest
+Description: Guest account may bypass security
+Result: 
+Status: SAFE
+----------------------------------------
+
+[DEVICE_MANAGEMENT] Work Profile
+Command: pm list users 2>/dev/null | grep -i work
+Description: Work profile status
+Result: 
+Status: INFO
+----------------------------------------
+
+[DEVICE_MANAGEMENT] Sync Accounts
+Command: dumpsys account 2>/dev/null | grep -i 'Account {' | wc -l
+Description: Number of synced accounts
+Result: 1
+Status: SAFE
+----------------------------------------
+
+[DEVICE_MANAGEMENT] Developer Options Disabled
+Command: settings get global development_settings_enabled
+Description: Developer options should be disabled in production
+Result: 1
+Status: WARNING
+----------------------------------------
+
+[DEVICE_MANAGEMENT] Stay Awake Disabled
+Command: settings get global stay_on_while_plugged_in
+Description: Stay awake while charging can be a security risk
+Result: 0
+Status: SAFE
+----------------------------------------
+
+[DEVICE_MANAGEMENT] Mock Location Disabled
+Command: settings get secure mock_location
+Description: Mock locations should be disabled
+Result: 0
+Status: SAFE
+----------------------------------------
+
+[DEVICE_MANAGEMENT] OEM Unlocking Disabled
+Command: settings get global oem_unlock_enabled
+Description: OEM unlocking allows bootloader unlock - should be disabled
+Result: null
+Status: SAFE
+----------------------------------------
+
+[DEVICE_MANAGEMENT] Device Admin Apps
+Command: dumpsys device_policy 2>/dev/null | grep -i admin | head -10
+Description: Device administrator applications
+Result: Enabled Device Admins (User 0, provisioningState: 0):
+  Default admin policy size limit: -1
+  Current admin policy size limit: -1
+  Admin Policies size: 
+  Admin can grant sensors permission: false
+Status: SAFE
+----------------------------------------
+
+[DEVICE_MANAGEMENT] Device Owner
+Command: dumpsys device_policy 2>/dev/null | grep -i 'device owner'
+Description: Enterprise device owner status
+Result: Device Owner Type: -1
+Status: SAFE
+----------------------------------------
+
+[DEVICE_MANAGEMENT] Profile Owner
+Command: dumpsys device_policy 2>/dev/null | grep -i 'profile owner'
+Description: Work profile owner status
+Result: 
+Status: INFO
+----------------------------------------
+
+[DEVICE_MANAGEMENT] Enterprise Encryption
+Command: dumpsys device_policy 2>/dev/null | grep -i 'encryption'
+Description: Enterprise encryption policy
+Result: Encryption Status: per-user
+Status: SAFE
+----------------------------------------
+
+[DEVICE_MANAGEMENT] Password Policy
+Command: dumpsys device_policy 2>/dev/null | grep -i 'password'
+Description: Password quality requirements
+Result: mPasswordOwner=-1
+    mPasswordTokenHandle=0
+  Password quality: {0=0}
+Status: SAFE
+----------------------------------------
+
+[INPUT] Accessibility Services Enabled
+Command: settings get secure enabled_accessibility_services
+Description: Accessibility services can monitor all input and screen content
+Result: null
+Status: SAFE
+----------------------------------------
+
+[INPUT] Touch Exploration
+Command: settings get secure touch_exploration_enabled
+Description: Touch exploration for accessibility
+Result: 0
+Status: SAFE
+----------------------------------------
+
+[INPUT] High Text Contrast
+Command: settings get secure high_text_contrast_enabled
+Description: High contrast text setting [⚠ Manual verification required - value is NULL]
+Result: null (Setting may not exist or is not configured)
+Status: VERIFY
+----------------------------------------
+
+[INPUT] Screen Magnification
+Command: settings get secure accessibility_display_magnification_enabled
+Description: Screen magnification status
+Result: 0
+Status: SAFE
+----------------------------------------
+
+[INPUT] Default Input Method
+Command: settings get secure default_input_method
+Description: Default keyboard/input method
+Result: com.android.inputmethod.latin/.LatinIME
+Status: SAFE
+----------------------------------------
+
+[INPUT] Enabled Input Methods
+Command: settings get secure enabled_input_methods
+Description: All enabled input methods - third party keyboards can log keystrokes
+Result: com.android.inputmethod.latin/.LatinIME:com.google.android.tts/com.google.android.apps.speech.tts.googletts.settings.asr.voiceime.VoiceInputMethodService
+Status: SAFE
+----------------------------------------
+
+[INPUT] Spell Checker Enabled
+Command: settings get secure spell_checker_enabled
+Description: Spell checker may send typed text to cloud [⚠ Manual verification required - value is NULL]
+Result: null (Setting may not exist or is not configured)
+Status: VERIFY
+----------------------------------------
+
+[INPUT] Voice Input Service
+Command: settings get secure voice_interaction_service
+Description: Voice input service configuration
+Result: com.google.android.googlequicksearchbox/com.google.android.voiceinteraction.GsaVoiceInteractionService
+Status: SAFE
+----------------------------------------
+
+[INPUT] No 3rd party keyboards installed
+Command: pm list packages -3 2>/dev/null | grep -i 'keyboard\|input\|ime' | grep -v 'com.android\|com.google\|com.samsung'
+Description: Third-party keyboards can log keystrokes
+Result: 
+Status: SAFE
+----------------------------------------
+
+[MALWARE] Frida Server Running
+Command: ps -A | grep frida
+Description: Frida server is a dynamic instrumentation toolkit commonly used for hooking
+Result: 
+Status: SAFE
+----------------------------------------
+
+[MALWARE] Suspicious Packages
+Command: pm list packages | grep -Ei 'spy|inject|keylog|steal|remote|sms|trojan'
+Description: Flag suspicious package names
+Result: package:com.android.smspush
+Status: WARNING
+----------------------------------------
+
+[MALWARE] Sensitive/Malicious Files (Recursive)
+Command: find /sdcard/ -type f -iregex '.*(key|creds|dump|log|backup|conf|config|token|password|secret|payload|exploit|malware|trojan|root|hack|shell|\.apk|\.dex|\.so|\.elf|\.sh|\.exe|\.bat)$'
+Description: Finds files on external storage commonly linked to leaks or malware (recursively).
+Result: find: bad arg '.*(key|creds|dump|log|backup|conf|config|token|password|secret|payload|exploit|malware|trojan|root|hack|shell|\.apk|\.dex|\.so|\.elf|\.sh|\.exe|\.bat)$'
+Status: WARNING
+----------------------------------------
+
+[MALWARE] Magisk Binary Presence
+Command: ls /sbin | grep magisk
+Description: Indicates root hiding tools like Magisk are installed
+Result: ls: /sbin: No such file or directory
+Status: SAFE
+----------------------------------------
+
+[MALWARE] su Binary in Common Paths
+Command: ls /system/xbin/su /system/bin/su 2>/dev/null
+Description: su binary indicates rooted device
+Result: 
+Status: SAFE
+----------------------------------------
+
+[MALWARE] Root Management Apps (SuperSU)
+Command: pm list packages 2>/dev/null | grep -iE 'eu.chainfire.supersu|com.noshufou.android.su|com.koushikdutta.superuser|com.thirdparty.superuser'
+Description: SuperSU or legacy root management app detected - device is rooted with management framework
+Result: 
+Status: SAFE
+----------------------------------------
+
+[MALWARE] Root Cloaking Apps
+Command: pm list packages 2>/dev/null | grep -iE 'com.devadvance.rootcloak|com.formyhm.hideroot|com.amphoras.hidemyroot|com.saurik.substrate'
+Description: Root cloaking app detected - actively hiding root status from security checks
+Result: 
+Status: SAFE
+----------------------------------------
+
+[MALWARE] BusyBox Binary (/system/xbin)
+Command: test -f /system/xbin/busybox && echo 'found' || echo ''
+Description: BusyBox binary in /system/xbin - common on rooted devices, provides extended shell utilities
+Result: 
+Status: SAFE
+----------------------------------------
+
+[MALWARE] BusyBox Binary (/sbin)
+Command: test -f /sbin/busybox && echo 'found' || echo ''
+Description: BusyBox binary in /sbin - common on rooted devices
+Result: 
+Status: SAFE
+----------------------------------------
+
+[MALWARE] Hidden Icon Apps (No Launcher)
+Command: for pkg in $(pm list packages -3 2>/dev/null | cut -d: -f2 | head -30); do dumpsys package $pkg 2>/dev/null | grep -q 'android.intent.category.LAUNCHER' || echo "NO_ICON: $pkg"; done
+Description: Third-party apps without launcher icon - PixPirate and other malware remove icons to hide
+Result: NO_ICON: com.google.android.safetycore
+NO_ICON: com.google.android.contactkeys
+NO_ICON: com.google.ar.core
+Status: WARNING
+----------------------------------------
+
+[MALWARE] Memory Scraper Processes
+Command: ps -A -o cmd 2>/dev/null | grep -iE 'memscan|memproc|carddata|poseidon|memory_dump|rawmem|scrapmem' | grep -v grep
+Description: Memory scraping process detected - searches device RAM for payment card track data
+Result: 
+Status: SAFE
+----------------------------------------
+
+[MALWARE] Keylogger Process Detection
+Command: ps -A -o cmd 2>/dev/null | grep -iE 'keylog|inputlog|keyrecord|keystroke|keycapture' | grep -v grep
+Description: Keylogger process detected - captures PIN entry and password input
+Result: 
+Status: SAFE
+----------------------------------------
+
+[MALWARE] Remote Access Tools (RAT)
+Command: ps -A -o cmd 2>/dev/null | grep -iE 'teamviewer|anydesk|airdroid|remotecontrol|vnc|scrcpy' | grep -v grep
+Description: Remote access tool running - allows unauthorized remote control of device
+Result: 
+Status: SAFE
+----------------------------------------
+
+[MALWARE] Xposed Framework Installed
+Command: test -f /system/bin/app_process.orig && echo 'xposed_found' || echo ''
+Description: Xposed framework detected via app_process.orig - enables system-wide runtime hooks
+Result: 
+Status: SAFE
+----------------------------------------
+
+[MALWARE] Xposed/LSPosed Modules
+Command: pm list packages 2>/dev/null | grep -iE 'de.robv.android.xposed|xposed.installer|org.lsposed|com.elderdrivers.edxposed'
+Description: Xposed/EdXposed/LSPosed module manager installed - can modify any app behavior at runtime
+Result: 
+Status: SAFE
+----------------------------------------
+
+[MALWARE] Frida Default Ports Listening
+Command: netstat -tlnp 2>/dev/null | grep -E ':27042|:27043' || ss -tlnp 2>/dev/null | grep -E ':27042|:27043'
+Description: Frida default ports (27042/27043) listening - dynamic instrumentation framework active for hooking
+Result: 
+Status: SAFE
+----------------------------------------
+
+[NETWORK] Airplane Mode
+Command: settings get global airplane_mode_on
+Description: Airplane mode status
+Result: 0
+Status: SAFE
+----------------------------------------
+
+[NETWORK] Mobile Data Enabled
+Command: settings get global mobile_data
+Description: Mobile data status
+Result: 0
+Status: SAFE
+----------------------------------------
+
+[NETWORK] Data Roaming
+Command: settings get global data_roaming
+Description: Data roaming can incur costs and security risks
+Result: 1
+Status: WARNING
+----------------------------------------
+
+[NETWORK] Preferred Network Mode
+Command: settings get global preferred_network_mode
+Description: Preferred cellular network mode
+Result: 22,22
+Status: SAFE
+----------------------------------------
+
+[NETWORK] VoLTE Enabled
+Command: settings get global volte_feature_disabled
+Description: Voice over LTE status [⚠ Manual verification required - value is NULL]
+Result: null (Setting may not exist or is not configured)
+Status: VERIFY
+----------------------------------------
+
+[NETWORK] DNS Servers
+Command: getprop net.dns1
+Description: Check DNS configs
+Result: 
+Status: SAFE
+----------------------------------------
+
+[NETWORK] Wi-Fi Security (WPA3)
+Command: dumpsys wifi | grep 'WPA3-'
+Description: WPA3 should be preferred over WPA2 for stronger Wi-Fi security [⚠ Manual verification required - empty/unsupported output]
+Result: (No output - command may not be supported on this device)
+Status: VERIFY
+----------------------------------------
+
+[NETWORK] DNS-over-TLS Enabled
+Command: settings get global private_dns_mode
+Description: DNS-over-TLS (DoT) should be enabled for encrypted DNS [⚠ Manual verification required - value is NULL]
+Result: null (Setting may not exist or is not configured)
+Status: VERIFY
+----------------------------------------
+
+[NETWORK] ARP Table Dump
+Command: cat /proc/net/arp
+Description: Lists resolved ARP IP-MAC mappings
+Result: IP address       HW type     Flags       HW address            Mask     Device
+192.168.0.1      0x1         0x2         20:23:51:a4:e1:0c     *        wlan0
+Status: SAFE
+----------------------------------------
+
+[NETWORK] Proxy Configuration
+Command: settings get global http_proxy
+Description: Proxy set may indicate MITM or forced redirection [⚠ Manual verification required - value is NULL]
+Result: null (Setting may not exist or is not configured)
+Status: VERIFY
+----------------------------------------
+
+[NETWORK] Captive Portal Detection
+Command: settings get global captive_portal_mode
+Description: Should be 1 (default); 0 disables captive portal checks [⚠ Manual verification required - value is NULL]
+Result: null (Setting may not exist or is not configured)
+Status: VERIFY
+----------------------------------------
+
+[NETWORK] CAN Bus Interface Exposed
+Command: ls /dev/can* /sys/class/net/can* /sys/class/net/vcan* 2>/dev/null
+Description: CAN bus interface accessible from Android - CRITICAL if exposed!
+Result: 
+Status: SAFE
+----------------------------------------
+
+[NETWORK] OBD-II Service Running
+Command: ps -A 2>/dev/null | grep -iE 'obd|elm327|canbus|socketcan'
+Description: OBD-II diagnostic service detected
+Result: 
+Status: SAFE
+----------------------------------------
+
+[NETWORK] Vehicle Diagnostic Permissions
+Command: timeout 8 dumpsys package 2>/dev/null | grep -E 'android.car.permission.CAR_DIAGNOSTICS|android.car.permission.CAR_ENGINE' | head -5
+Description: Apps with vehicle diagnostic permissions
+Result: 
+Status: INFO
+----------------------------------------
+
+[NETWORK] Vehicle Control Permissions
+Command: timeout 8 dumpsys package 2>/dev/null | grep -E 'CAR_CONTROL|CAR_SPEED|CAR_ENERGY|CAR_POWERTRAIN' | head -5
+Description: Apps with vehicle control permissions - review carefully!
+Result: Permission [com.google.android.gms.permission.CAR_SPEED] (d1a1829):
+    perm=PermissionInfo{c7ba9b1 com.google.android.gms.permission.CAR_SPEED}
+      com.google.android.gms.permission.CAR_SPEED: prot=dangerous
+      com.google.android.gms.permission.CAR_SPEED: prot=dangerous
+Status: CRITICAL
+----------------------------------------
+
+[NETWORK] Telematics Service
+Command: ps -A 2>/dev/null | grep -iE 'telematics|tcu|tbox|connectivity'
+Description: Telematics/connectivity service running
+Result: 
+Status: INFO
+----------------------------------------
+
+[NETWORK] Cellular Modem for Telematics
+Command: getprop gsm.version.baseband 2>/dev/null; getprop ro.telephony.default_network 2>/dev/null
+Description: Cellular connectivity for telematics/OTA
+Result: .15-00007-SDM845_GEN_PACK-1.437410.1.446401.1,.15-00007-SDM845_GEN_PACK-1.437410.1.446401.1
+22,22
+Status: SAFE
+----------------------------------------
+
+[NETWORK] GPS/Location Always On
+Command: settings get secure location_mode 2>/dev/null
+Description: Location tracking enabled - privacy concern for vehicles
+Result: 3
+Status: WARNING
+----------------------------------------
+
+[NETWORK] Driving Mode Restrictions
+Command: settings get global car_dock_sound 2>/dev/null; dumpsys car_service 2>/dev/null | grep -i 'driving\|restriction' | head -3
+Description: Driving mode and UX restrictions status
+Result: /product/media/audio/ui/Dock.ogg
+Status: SAFE
+----------------------------------------
+
+[NETWORK] Vehicle Network Interfaces
+Command: ip link show 2>/dev/null | grep -iE 'can|eth|vlan|vehicle'
+Description: Network interfaces including vehicle networks
+Result: link/ether ba:01:46:7b:9b:c5 brd ff:ff:ff:ff:ff:ff
+    link/ether 42:6b:c0:de:29:7a brd ff:ff:ff:ff:ff:ff
+    link/ether 8a:2b:b3:8f:35:5f brd ff:ff:ff:ff:ff:ff
+    link/ether 64:a2:f9:cc:6d:a2 brd ff:ff:ff:ff:ff:ff
+Status: SAFE
+----------------------------------------
+
+[NETWORK] Ethernet to Vehicle Gateway
+Command: ip addr show 2>/dev/null | grep -A2 'eth0\|eth1' | grep inet
+Description: Ethernet connection - may connect to vehicle gateway
+Result: 
+Status: INFO
+----------------------------------------
+
+[NETWORK] Bluetooth OBD Adapters
+Command: dumpsys bluetooth_manager 2>/dev/null | grep -iE 'OBD\|ELM\|OBDII\|Vgate\|Carista' | head -3
+Description: Bluetooth OBD-II adapters paired - can access vehicle data
+Result: 
+Status: SAFE
+----------------------------------------
+
+[NETWORK] WiFi Direct for CarPlay/Android Auto
+Command: dumpsys wifi 2>/dev/null | grep -i 'p2p\|direct\|carplay\|androidauto' | head -3
+Description: WiFi Direct status for phone projection
+Result: 
+Status: INFO
+----------------------------------------
+
+[NETWORK] Firebase Config Present
+Command: ls /data/data/*/google-services.json /data/data/*/files/google-services.json 2>/dev/null || find /data -maxdepth 6 -name 'google-services.json' 2>/dev/null | head -3
+Description: Firebase configuration - check security rules
+Result: 
+Status: INFO
+----------------------------------------
+
+[NETWORK] AWS SDK/Config
+Command: find /data/data /data/app /data/misc /data/local /system/etc /system/app /vendor/etc -maxdepth 5 -type f \( -name '*.json' -o -name '*.conf' -o -name '*.properties' -o -name '*.xml' -o -name '*.yaml' -o -name '*.yml' -o -name '*.env' -o -name '*.cfg' \) -print0 2>/dev/null | xargs -0 grep -l -i 'aws_access_key\|aws_secret\|amazonaws.com' 2>/dev/null | head -5
+Description: AWS credentials or config found
+Result: 
+Status: SAFE
+----------------------------------------
+
+[NETWORK] Azure IoT Config
+Command: find /data/data /data/app /data/misc /data/local /system/etc /system/app /vendor/etc -maxdepth 5 -type f \( -name '*.json' -o -name '*.conf' -o -name '*.xml' -o -name '*.properties' -o -name '*.yaml' -o -name '*.yml' -o -name '*.env' -o -name '*.cfg' \) -print0 2>/dev/null | xargs -0 grep -l -i 'azure-devices.net\|iothub\|SharedAccessKey' 2>/dev/null | head -5
+Description: Azure IoT Hub configuration found
+Result: 
+Status: SAFE
+----------------------------------------
+
+[NETWORK] MQTT Broker Config
+Command: find /data/data /data/misc /system/etc /vendor/etc /vendor/firmware -maxdepth 5 -type f \( -name '*.conf' -o -name '*.json' -o -name '*.xml' -o -name '*.yaml' -o -name '*.yml' -o -name '*.cfg' \) -print0 2>/dev/null | xargs -0 grep -l -iE 'mqtt://|mqtts://|broker.*1883|mosquitto' 2>/dev/null | head -5
+Description: MQTT broker configuration files
+Result: 
+Status: INFO
+----------------------------------------
+
+[NETWORK] Telemetry Endpoints
+Command: find /system/etc /vendor/etc /system/app /vendor/app -maxdepth 4 -type f \( -name '*.json' -o -name '*.xml' -o -name '*.yaml' -o -name '*.conf' \) -print0 2>/dev/null | xargs -0 grep -l -iE 'telemetry|analytics|tracking|metrics' 2>/dev/null | head -5
+Description: Telemetry/analytics endpoints configured
+Result: /system/etc/vintf/compatibility_matrix.device.xml
+/system/etc/vintf/compatibility_matrix.5.xml
+/system/etc/vintf/compatibility_matrix.8.xml
+/system/etc/vintf/compatibility_matrix.7.xml
+/system/etc/vintf/compatibility_matrix.202404.xml
+Status: SAFE
+----------------------------------------
+
+[NETWORK] OTA Update URL
+Command: find /system/etc /vendor/etc /system/app /vendor/app /vendor/firmware -maxdepth 4 -type f \( -name '*.json' -o -name '*.xml' -o -name '*.conf' -o -name '*.prop' -o -name '*.yaml' \) -print0 2>/dev/null | xargs -0 grep -l -iE 'ota.*update|firmware.*url|update.*server' 2>/dev/null | head -5
+Description: OTA update configuration - verify HTTPS and signing
+Result: /system/etc/compatconfig/services-platform-compat-config.xml
+/system/etc/permissions/platform.xml
+Status: SAFE
+----------------------------------------
+
+[NETWORK] Remote Management Ports
+Command: netstat -tlnp 2>/dev/null | grep -E ':8080|:8443|:9090|:3000|:4000' || ss -tlnp 2>/dev/null | grep -E ':8080|:8443|:9090|:3000|:4000'
+Description: Management/API ports exposed
+Result: 
+Status: SAFE
+----------------------------------------
+
+[NETWORK] Open TCP Ports
+Command: netstat -tlnp 2>/dev/null || ss -tlnp 2>/dev/null
+Description: All listening TCP ports - review for unnecessary services
+Result: Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program Name
+tcp        0      0 127.0.0.1:8872          0.0.0.0:*               LISTEN      2723/com.android.bluetooth
+tcp        0      0 192.168.0.169:44764     142.250.205.142:443     TIME_WAIT   -
+tcp        0      0 192.168.0.169:41112     142.251.43.142:443      ESTABLISHED 7661/com.android.vending:background
+tcp        0      0 192.168.0.169:45660     142.251.221...
+Status: INFO
+----------------------------------------
+
+[NETWORK] Open UDP Ports
+Command: netstat -ulnp 2>/dev/null || ss -ulnp 2>/dev/null
+Description: INFO: All external UDP ports. 🟢 SAFE=empty. 🔴 UNSAFE=any output exposes UDP services. Why: UDP services often lack authentication.
+Result: Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program Name
+udp        0      0 0.0.0.0:42538           0.0.0.0:*               UNKNOWN     1444/netmgrd
+udp        0      0 192.168.0.169:38445     142.251.43.142:443      ESTABLISHED 7647/com.android.vending
+udp        0      0 192.168.0.169:43007     216.239.32.223:443      ESTABLISHED 11479/com.google.android.gms
+udp        0      0 192.168.0.169:47507     116.119.9...
+Status: INFO
+----------------------------------------
+
+[NETWORK] HTTP Server Running
+Command: netstat -tlnp 2>/dev/null | grep -E ':80\b|:8080\b|:443\b|:8443\b' || ss -tlnp 2>/dev/null | grep -E ':80\b|:8080\b|:443\b|:8443\b'
+Description: Web server exposed - potential attack surface
+Result: 
+Status: SAFE
+----------------------------------------
+
+[NETWORK] Telnet Service (Insecure)
+Command: netstat -tlnp 2>/dev/null | grep ':23\b' || ss -tlnp 2>/dev/null | grep ':23\b'
+Description: Telnet transmits credentials in plaintext - CRITICAL RISK
+Result: 
+Status: SAFE
+----------------------------------------
+
+[NETWORK] FTP Service (Insecure)
+Command: netstat -tlnp 2>/dev/null | grep ':21\b' || ss -tlnp 2>/dev/null | grep ':21\b'
+Description: FTP transmits credentials in plaintext - CRITICAL RISK
+Result: 
+Status: SAFE
+----------------------------------------
+
+[NETWORK] SSH Service
+Command: netstat -tlnp 2>/dev/null | grep ':22\b' || ss -tlnp 2>/dev/null | grep ':22\b'
+Description: SSH exposed - ensure strong authentication
+Result: 
+Status: SAFE
+----------------------------------------
+
+[NETWORK] ADB Network Port (5555)
+Command: netstat -tlnp 2>/dev/null | grep ':5555\b' || ss -tlnp 2>/dev/null | grep ':5555\b'
+Description: ADB over network - allows remote shell access!
+Result: 
+Status: SAFE
+----------------------------------------
+
+[NETWORK] MQTT Broker (1883/8883)
+Command: netstat -tlnp 2>/dev/null | grep -E ':1883\b|:8883\b' || ss -tlnp 2>/dev/null | grep -E ':1883\b|:8883\b'
+Description: MQTT broker exposed - check authentication
+Result: 
+Status: SAFE
+----------------------------------------
+
+[NETWORK] CoAP Service (5683/5684)
+Command: netstat -ulnp 2>/dev/null | grep -E ':5683\b|:5684\b' || ss -ulnp 2>/dev/null | grep -E ':5683\b|:5684\b'
+Description: CoAP service exposed - IoT protocol
+Result: 
+Status: SAFE
+----------------------------------------
+
+[NETWORK] UPnP Service (1900)
+Command: netstat -ulnp 2>/dev/null | grep ':1900\b' || ss -ulnp 2>/dev/null | grep ':1900\b'
+Description: UPnP can expose device to network attacks
+Result: 
+Status: SAFE
+----------------------------------------
+
+[NETWORK] Network Interfaces
+Command: ip addr show 2>/dev/null | grep -E 'inet |inet6 ' | grep -v '127.0.0.1\|::1'
+Description: Active network interfaces and IPs
+Result: inet 127.0.0.1/8 scope host lo
+    inet6 ::1/128 scope host 
+    inet6 fe80::406b:c0ff:fede:297a/64 scope link 
+    inet 192.168.0.169/24 brd 192.168.0.255 scope global wlan0
+    inet6 fe80::882b:b3ff:fe8f:355f/64 scope link
+Status: SAFE
+----------------------------------------
+
+[NETWORK] Default Gateway
+Command: ip route show default 2>/dev/null
+Description: Network gateway configuration
+Result: 192.168.0.0/24 dev wlan0 proto kernel scope link src 192.168.0.169
+Status: SAFE
+----------------------------------------
+
+[NETWORK] Network Services Exposed
+Command: netstat -tlnp 2>/dev/null | grep -v '127.0.0.1' || ss -tlnp 2>/dev/null | grep -v '127.0.0.1'
+Description: Network services exposed - each must be documented and secured
+Result: Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program Name
+tcp        0      0 192.168.0.169:44764     142.250.205.142:443     TIME_WAIT   -
+tcp        0      0 192.168.0.169:41112     142.251.43.142:443      ESTABLISHED 7661/com.android.vending:background
+tcp        0      1 192.168.0.169:45642     116.119.62.143:443      LAST_ACK    -
+tcp        0      0 192.168.0.169:47320     216.239.34.223:443      TIME_WAIT   ...
+Status: CRITICAL
+----------------------------------------
+
+[NETWORK] HL7/FHIR Ports (2575, 8080)
+Command: netstat -tlnp 2>/dev/null | grep -E ':2575|:8080|:8443' || ss -tlnp 2>/dev/null | grep -E ':2575|:8080|:8443'
+Description: HL7/FHIR API ports - verify TLS and authentication
+Result: 
+Status: INFO
+----------------------------------------
+
+[NETWORK] DICOM Ports (104, 11112)
+Command: netstat -tlnp 2>/dev/null | grep -E ':104\b|:11112' || ss -tlnp 2>/dev/null | grep -E ':104\b|:11112'
+Description: DICOM imaging ports - verify security configuration
+Result: 
+Status: INFO
+----------------------------------------
+
+[NETWORK] WiFi Security Protocol
+Command: dumpsys wifi 2>/dev/null | grep -iE 'security|wpa|wep|open' | head -3
+Description: Must use WPA2/WPA3 - WEP/Open networks prohibited for PHI
+Result: rec[8]: time=02-18 00:56:08.300 processed=ConnectableState org=DisconnectedState dest=L2ConnectingState what=CMD_START_CONNECT screen=on 0 1010 targetConfigKey="Mr-IoT"WPA_PSK BSSID=null targetBssid=any roam=false
+ rec[16]: time=02-18 00:56:08.354 processed=ConnectingOrConnectedState org=L2ConnectingState dest=L3ProvisioningState what=NETWORK_CONNECTION_EVENT screen=on 0 false 7a:23:51:a4:e1:0b nid=0 "Mr-IoT"WPA_PSK last=
+mWifiInfo SSID: "Mr-IoT", BSSID: 7a:23:51:a4:e1:0b, MAC: 8a:2b:b3:8f:35:5f...
+Status: SAFE
+----------------------------------------
+
+[NETWORK] Root Network Access Test
+Command: su -c 'netstat -anp 2>/dev/null | head -5' || echo 'ROOT_REQUIRED_FOR_FULL_OUTPUT'
+Description: INFO: Tests if root access works for network commands. If ROOT_REQUIRED shown, run HARDAX on rooted device for full network audit.
+Result: /system/bin/sh: no closing quote
+Status: INFO
+----------------------------------------
+
+[NETWORK] All Network Connections (Root)
+Command: su -c 'netstat -anp' 2>/dev/null || netstat -an 2>/dev/null || ss -anp 2>/dev/null || ss -an 2>/dev/null
+Description: INFO: Complete network connections list. Shows all TCP/UDP with PID if rooted. Use to verify other checks are working.
+Result: Active Internet connections (servers and established)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program Name
+tcp        0      0 127.0.0.1:8872          0.0.0.0:*               LISTEN      2723/com.android.bluetooth
+tcp        0      0 192.168.0.169:44764     142.250.205.142:443     TIME_WAIT   -
+tcp        0      0 192.168.0.169:41112     142.251.43.142:443      ESTABLISHED 7661/com.android.vending:background
+tcp        0      0 192.168.0.169:38696     ...
+Status: INFO
+----------------------------------------
+
+[NETWORK] Listening Ports Summary (Root)
+Command: su -c 'netstat -lnp' 2>/dev/null | grep -E '^tcp|^udp' || netstat -ln 2>/dev/null | grep -E '^tcp|^udp'
+Description: INFO: All listening ports (TCP+UDP). 🟢 SAFE=only 127.0.0.1. 🔴 REVIEW=any 0.0.0.0 or external IP. Shows PID/program if rooted.
+Result: 
+Status: INFO
+----------------------------------------
+
+[NETWORK] Listening TCP Ports (IPv4)
+Command: netstat -lntp 2>/dev/null | grep '^tcp ' || ss -lntp 2>/dev/null | grep '^tcp'
+Description: INFO: All IPv4 TCP listening ports. 🟢 SAFE if 127.0.0.1 (localhost only). 🔴 UNSAFE if 0.0.0.0 (anyone can connect). Empty may indicate command failure on non-rooted device.
+Result: tcp        0      0 127.0.0.1:8872          0.0.0.0:*               LISTEN      2723/com.android.bluetooth
+tcp        0      0 192.168.0.169:44764     142.250.205.142:443     TIME_WAIT   -
+tcp        0      0 192.168.0.169:41112     142.251.43.142:443      ESTABLISHED 7661/com.android.vending:background
+tcp        0      0 192.168.0.169:38696     216.239.36.223:443      ESTABLISHED 11461/com.google.android.gms.persistent
+tcp        0      1 192.168.0.169:45642     116.119.62.143:443      LAST_AC...
+Status: INFO
+----------------------------------------
+
+[NETWORK] Common TCP Ports Exposed (IPv4)
+Command: netstat -lntp 2>/dev/null | grep '^tcp ' | grep -E ':(53|80|25|110|143|465|587|993|995|8080|8443|22)[^0-9]' | grep -v '127\.' || ss -lntp 2>/dev/null | grep -E ':(53|80|25|110|143|465|587|993|995|8080|8443|22)[^0-9]' | grep -v '127\.'
+Description: WARNING: 22(SSH), 53(DNS), 80(HTTP), 8080(Proxy) exposed! 🟢 SAFE=empty. 🔴 UNSAFE=any output. Risk: brute force, unencrypted traffic.
+Result: 
+Status: SAFE
+----------------------------------------
+
+[NETWORK] Critical TCP Ports Exposed (IPv4)
+Command: netstat -lntp 2>/dev/null | grep '^tcp ' | grep -E ':(21|23|25|445|3306|5432|5555|5900|5901|3389|4444|41795)[^0-9]' | grep -v '127\.' || ss -lntp 2>/dev/null | grep -E ':(21|23|25|445|3306|5432|5555|5900|5901|3389|4444|41795)[^0-9]' | grep -v '127\.'
+Description: CRITICAL: 21(FTP), 23(Telnet), 5555(ADB), 3306(MySQL), 3389(RDP), 5900(VNC) exposed! 🟢 SAFE=empty. 🔴 UNSAFE=any output. IMMEDIATE ACTION REQUIRED!
+Result: 
+Status: SAFE
+----------------------------------------
+
+[NETWORK] Open UDP Ports (IPv4, excluding localhost)
+Command: netstat -lnup 2>/dev/null | grep '^udp ' | grep -v '127\.' || ss -lnup 2>/dev/null | grep '^udp' | grep -v '127\.'
+Description: INFO: External UDP ports. 🟢 SAFE=empty. 🔴 UNSAFE=any output. Risk: UDP services often lack authentication.
+Result: udp        0      0 192.168.0.169:38347     172.217.24.2:443        ESTABLISHED 11479/com.google.android.gms
+udp        0      0 0.0.0.0:42538           0.0.0.0:*               ESTABLISHED 1444/netmgrd
+udp        0      0 192.168.0.169:38445     142.251.43.142:443      ESTABLISHED 7647/com.android.vending
+udp        0      0 192.168.0.169:43007     216.239.32.223:443      ESTABLISHED 11479/com.google.android.gms
+udp        0      0 192.168.0.169:47507     116.119.96.80:443       ESTABLISHED 7661...
+Status: INFO
+----------------------------------------
+
+[NETWORK] UDP Ports 123, 161, 162, 5353 Open (IPv4)
+Command: netstat -lnup 2>/dev/null | grep '^udp ' | grep -E ':(123|161|162|5353)[^0-9]' | grep -v '127\.' || ss -lnup 2>/dev/null | grep -E ':(123|161|162|5353)[^0-9]' | grep -v '127\.'
+Description: WARNING: 123(NTP), 161(SNMP), 5353(mDNS) exposed! 🟢 SAFE=empty. 🔴 UNSAFE=any output. Risk: DDoS amplification, device info leakage.
+Result: 
+Status: SAFE
+----------------------------------------
+
+[NETWORK] Potentially Vulnerable UDP Ports (IPv4)
+Command: netstat -lnup 2>/dev/null | grep '^udp ' | grep -E ':(69|1900|500|4500|520)[^0-9]' | grep -v '127\.' || ss -lnup 2>/dev/null | grep -E ':(69|1900|500|4500|520)[^0-9]' | grep -v '127\.'
+Description: CRITICAL: 69(TFTP), 1900(SSDP), 500(IPsec) exposed! 🟢 SAFE=empty. 🔴 UNSAFE=any output. Risk: No auth, DDoS amplification!
+Result: 
+Status: SAFE
+----------------------------------------
+
+[NETWORK] Listening TCP Ports (IPv6, excluding ::1)
+Command: netstat -lntp 2>/dev/null | grep '^tcp6' | grep -v '::1' || ss -lntp 2>/dev/null | grep 'tcp6\|\[::\]' | grep -v '::1'
+Description: INFO: IPv6 TCP listening ports. 🟢 SAFE=empty or ::1 only. 🔴 UNSAFE if ::: (all interfaces). IPv6 often overlooked!
+Result: 
+Status: SAFE
+----------------------------------------
+
+[NETWORK] Common TCP Ports Exposed (IPv6, Warning)
+Command: netstat -lntp 2>/dev/null | grep '^tcp6' | grep -E ':(53|80|25|110|143|465|587|993|995|8080|8443|22)[^0-9]' | grep -v '::1' || ss -lntp 2>/dev/null | grep 'tcp6\|\[::\]' | grep -E ':(53|80|22)[^0-9]' | grep -v '::1'
+Description: WARNING: Common TCP on IPv6! 🟢 SAFE=empty. 🔴 UNSAFE=any output. Risk: Often missed in firewall rules!
+Result: 
+Status: SAFE
+----------------------------------------
+
+[NETWORK] Expanded Critical TCP Ports (excluding SSH) Listening or External (IPv6)
+Command: netstat -lntp 2>/dev/null | grep '^tcp6' | grep -E ':(21|23|25|445|3306|5432|5555|5900|5901|3389|4444|41795)[^0-9]' | grep -v '::1' || ss -lntp 2>/dev/null | grep 'tcp6\|\[::\]' | grep -E ':(21|23|5555)[^0-9]' | grep -v '::1'
+Description: CRITICAL: Dangerous ports on IPv6! 🟢 SAFE=empty. 🔴 UNSAFE=any output. Risk: Full device control via IPv6!
+Result: 
+Status: SAFE
+----------------------------------------
+
+[NETWORK] Open UDP Ports (IPv6, excluding localhost)
+Command: netstat -lnup 2>/dev/null | grep '^udp6' | grep -v '::1' || ss -lnup 2>/dev/null | grep 'udp6\|\[::\]' | grep -v '::1'
+Description: INFO: External IPv6 UDP ports. 🟢 SAFE=empty. 🔴 UNSAFE=any output. Risk: Bypasses IPv4 firewall rules.
+Result: 
+Status: SAFE
+----------------------------------------
+
+[NETWORK] UDP Ports 123, 161, 162, 5353 Open (IPv6)
+Command: netstat -lnup 2>/dev/null | grep '^udp6' | grep -E ':(123|161|162|5353)[^0-9]' | grep -v '::1' || ss -lnup 2>/dev/null | grep 'udp6' | grep -E ':(123|161|5353)[^0-9]' | grep -v '::1'
+Description: WARNING: NTP/SNMP/mDNS on IPv6! 🟢 SAFE=empty. 🔴 UNSAFE=any output. Risk: DDoS, device discovery.
+Result: 
+Status: SAFE
+----------------------------------------
+
+[NETWORK] Potentially Vulnerable UDP Ports (IPv6)
+Command: netstat -lnup 2>/dev/null | grep '^udp6' | grep -E ':(69|1900|500|4500|520)[^0-9]' | grep -v '::1' || ss -lnup 2>/dev/null | grep 'udp6' | grep -E ':(69|1900)[^0-9]' | grep -v '::1'
+Description: CRITICAL: TFTP/SSDP on IPv6! 🟢 SAFE=empty. 🔴 UNSAFE=any output. Risk: No-auth file transfer, DDoS!
+Result: 
+Status: SAFE
+----------------------------------------
+
+[NETWORK] VPN Legacy Mode
+Command: settings get global vpn_legacy_mode
+Description: Legacy VPN mode status [⚠ Manual verification required - value is NULL]
+Result: null (Setting may not exist or is not configured)
+Status: VERIFY
+----------------------------------------
+
+[NETWORK] Always-On VPN
+Command: settings get secure always_on_vpn_app
+Description: Always-on VPN app if configured [⚠ Manual verification required - value is NULL]
+Result: null (Setting may not exist or is not configured)
+Status: VERIFY
+----------------------------------------
+
+[NETWORK] VPN Lockdown
+Command: settings get secure always_on_vpn_lockdown
+Description: VPN lockdown mode prevents traffic without VPN [⚠ Manual verification required - value is NULL]
+Result: null (Setting may not exist or is not configured)
+Status: VERIFY
+----------------------------------------
+
+[NETWORK] Active VPN Connections
+Command: dumpsys connectivity 2>/dev/null | grep -i vpn | head -5
+Description: Current VPN connection status
+Result: 3: VpnNetworkProvider:0
+  NetworkAgentInfo{network{100}  handle{432902426637}  ni{WIFI CONNECTED extra: } created=2026-02-17T19:26:08.358Z Score(Policies : TRANSPORT_PRIMARY&EVER_EVALUATED&IS_UNMETERED&EVER_VALIDATED&IS_VALIDATED ; KeepConnected : 0)  created 59418 firstValidated 59939 lastValidated 59939  lp{{InterfaceName: wlan0 LinkAddresses: [ fe80::882b:b3ff:fe8f:355f/64,192.168.0.169/24 ] DnsAddresses: [ /192.168.0.1 ] Domains: null MTU: 0 ServerAddress: /192.168.0.1 TcpBufferSizes: 524288...
+Status: SAFE
+----------------------------------------
+
+[NETWORK] WiFi Enabled
+Command: settings get global wifi_on
+Description: WiFi enabled status
+Result: 1
+Status: SAFE
+----------------------------------------
+
+[NETWORK] WiFi Networks Saved
+Command: cmd wifi list-networks 2>/dev/null | wc -l
+Description: Number of saved WiFi networks
+Result: 3
+Status: SAFE
+----------------------------------------
+
+[NETWORK] WiFi MAC Randomization
+Command: settings get global wifi_connected_mac_randomization_enabled
+Description: MAC randomization protects privacy [⚠ Manual verification required - value is NULL]
+Result: null (Setting may not exist or is not configured)
+Status: VERIFY
+----------------------------------------
+
+[NETWORK] WiFi Scan Always Available
+Command: settings get global wifi_scan_always_enabled
+Description: WiFi scanning when WiFi off can leak location
+Result: 0
+Status: SAFE
+----------------------------------------
+
+[NETWORK] Open Network Notification
+Command: settings get global wifi_networks_available_notification_on
+Description: Notifications for open networks
+Result: 1
+Status: INFO
+----------------------------------------
+
+[NETWORK] WiFi Watchdog
+Command: settings get global wifi_watchdog_on
+Description: WiFi watchdog monitors connection quality [⚠ Manual verification required - value is NULL]
+Result: null (Setting may not exist or is not configured)
+Status: VERIFY
+----------------------------------------
+
+[NETWORK] WiFi Captive Portal Detection
+Command: settings get global captive_portal_detection_enabled
+Description: Captive portal detection for public WiFi [⚠ Manual verification required - value is NULL]
+Result: null (Setting may not exist or is not configured)
+Status: VERIFY
+----------------------------------------
+
+[NETWORK] Active External Connections (ESTABLISHED)
+Command: netstat -tunp 2>/dev/null | grep ESTABLISHED | grep -vE '127.0.0.1|::1|localhost' | head -20 || ss -tunp 2>/dev/null | grep ESTAB | grep -vE '127.0.0.1|::1' | head -20
+Description: Active outbound connections to external IPs - unexpected connections may indicate C2 communication or data exfiltration
+Result: tcp        0      0 192.168.0.169:41112     142.251.43.142:443      ESTABLISHED 7661/com.android.vending:background
+tcp        0      0 192.168.0.169:38696     216.239.36.223:443      ESTABLISHED 11461/com.google.android.gms.persistent
+tcp        0      0 192.168.0.169:45712     116.119.96.80:443       ESTABLISHED 7661/com.android.vending:background
+tcp        0      0 192.168.0.169:45478     216.239.38.223:443      ESTABLISHED 7781/com.android.vending:instant_app_installer
+tcp        0      0 1...
+Status: WARNING
+----------------------------------------
+
+[NFC_SECURITY] NFC Enabled
+Command: settings get global nfc_on
+Description: NFC radio status [⚠ Manual verification required - value is NULL]
+Result: null (Setting may not exist or is not configured)
+Status: VERIFY
+----------------------------------------
+
+[NFC_SECURITY] Android Beam
+Command: settings get global android_beam_enabled
+Description: Android Beam can be used for data exfiltration
+Result: null
+Status: SAFE
+----------------------------------------
+
+[NFC_SECURITY] NFC Payment Default
+Command: settings get secure nfc_payment_default_component
+Description: Default NFC payment application [⚠ Manual verification required - value is NULL]
+Result: null (Setting may not exist or is not configured)
+Status: VERIFY
+----------------------------------------
+
+[NFC_SECURITY] Tap and Pay
+Command: settings get secure tap_and_pay_service_enabled
+Description: Tap and pay service status [⚠ Manual verification required - value is NULL]
+Result: null (Setting may not exist or is not configured)
+Status: VERIFY
+----------------------------------------
+
+[NFC_SECURITY] NFC Service Detailed Status
+Command: dumpsys nfc 2>/dev/null | grep -iE 'mState|mIsNdefPushEnabled|mScreenState|mNfcAdapter' | head -10
+Description: NFC service internal state - mState/push/screen details for security posture analysis
+Result: mState=on
+mScreenState=OFF_LOCKED
+Status: INFO
+----------------------------------------
+
+[NFC_SECURITY] NFC Reader Mode Active
+Command: dumpsys nfc 2>/dev/null | grep -i 'mReaderModeParams'
+Description: NFC reader mode parameters active - may indicate relay attack preparation or unauthorized card reading [⚠ Manual verification required - empty/unsupported output]
+Result: (No output - command may not be supported on this device)
+Status: VERIFY
+----------------------------------------
+
+[NFC_SECURITY] Secure Element (eSE/UICC) Status
+Command: dumpsys nfc 2>/dev/null | grep -iE 'eSE|UICC|SecureElement|HCE' | head -10
+Description: Secure element status - eSE/UICC stores payment credentials, HCE indicates host card emulation
+Result: Registered HCE services for current user: 
+    ComponentInfo{com.google.android.gms/com.google.android.gms.tapandpay.hce.service.TpHceService} (Description: Google Pay) (UID: 10202)
+    ComponentInfo{com.google.android.gms/com.google.android.gms.pay.hce.service.PayHceService} (Description: Google Wallet) (UID: 10202)
+Registered HCE-F services for current user: 
+        *DEFAULT* ApduService: ComponentInfo{com.google.android.gms/com.google.android.gms.pay.hce.service.PayHceService}, UID: 10202, d...
+Status: INFO
+----------------------------------------
+
+[POS_SECURITY] TEE Implementation
+Command: (gk=$(getprop ro.hardware.gatekeeper 2>/dev/null); ks=$(getprop ro.hardware.keystore 2>/dev/null); wv=$(getprop ro.hardware.weaver 2>/dev/null); sb=$(pm list features 2>/dev/null | grep -i strongbox); km=$(service list 2>/dev/null | grep -iE 'keymint|keymaster' | head -1); out=''; [ -n "$wv" ] && out="weaver=$wv "; [ -n "$sb" ] && out="${out}strongbox=present "; [ -n "$km" ] && out="${out}keymint_or_keymaster=present "; [ -n "$gk" ] && [ "$gk" != 'default' ] && [ "$gk" != 'software' ] && out="${out}gatekeeper=$gk "; [ -n "$ks" ] && [ "$ks" != 'default' ] && [ "$ks" != 'software' ] && out="${out}keystore=$ks "; echo ${out:-NOT_FOUND})
+Description: PCI-DSS: TEE/hardware-backed key storage required for payment operations. Checks gatekeeper, keystore, weaver props + StrongBox feature + KeyMint/Keymaster service. Outputs detected signals or NOT_FOUND. Skips 'default'/'software' (pure SW fallback).
+Result: NOT_FOUND
+Status: CRITICAL
+----------------------------------------
+
+[POS_SECURITY] Secure Element HAL
+Command: ls /vendor/lib64/hw/android.hardware.secure_element*.so /vendor/lib/hw/android.hardware.secure_element*.so 2>/dev/null | wc -l
+Description: Secure Element HAL libraries for hardware security module access
+Result: 0
+Status: SAFE
+----------------------------------------
+
+[POS_SECURITY] Keymaster HAL Version
+Command: ls /vendor/lib64/hw/android.hardware.keymaster*.so /vendor/lib/hw/android.hardware.keymaster*.so 2>/dev/null | head -1 | grep -oE 'keymaster[@-]?[0-9.]+' || echo 'not_found'
+Description: Keymaster HAL version - higher versions have better security features
+Result: not_found
+Status: SAFE
+----------------------------------------
+
+[POS_SECURITY] Kiosk Mode (Lock Task)
+Command: result=$(dumpsys activity 2>/dev/null | grep -iE 'mLockTaskModeState|mLockTaskMode[^S]' | grep -oE '[0-9]+' | head -1); echo "${result:-0}"
+Description: POS should run in kiosk/lock task mode (1=locked, 2=pinned). Supports both old (mLockTaskModeState) and new (mLockTaskMode) Android property names. Returns 0 if not in kiosk mode.
+Result: 0
+Status: WARNING
+----------------------------------------
+
+[POS_SECURITY] App Pinning Enabled
+Command: settings get secure lock_to_app_enabled 2>/dev/null
+Description: App pinning should be enabled for single-app POS kiosk mode [⚠ Manual verification required - value is NULL]
+Result: null (Setting may not exist or is not configured)
+Status: VERIFY
+----------------------------------------
+
+[POS_SECURITY] Payment Apps Installed
+Command: pm list packages 2>/dev/null | grep -iE 'pay|wallet|pos|terminal|merchant|square|clover|toast|stripe|verifone|ingenico|pax' | wc -l
+Description: Count of payment-related applications installed
+Result: 2
+Status: SAFE
+----------------------------------------
+
+[POS_SECURITY] Payment App Permissions
+Command: for pkg in $(pm list packages 2>/dev/null | grep -iE 'pay|wallet|pos|terminal' | cut -d: -f2 | head -3); do dumpsys package $pkg 2>/dev/null | grep -E 'permission.*INTERNET|permission.*NFC|permission.*CAMERA' | head -5; done
+Description: Review critical permissions granted to payment apps - INTERNET+NFC+CAMERA combo needs manual review
+Result: 
+Status: SAFE
+----------------------------------------
+
+[POS_SECURITY] Dangerous Permission - CAMERA
+Command: pm list packages 2>/dev/null | cut -d: -f2 | while read pkg; do dumpsys package "$pkg" 2>/dev/null | grep -q 'android.permission.CAMERA.*granted=true' && echo "$pkg"; done | grep -ivE 'camera|photo|scan|barcode|qr' | head -5
+Description: Non-camera apps with CAMERA permission - potential card skimming risk
+Result: org.lineageos.setupwizard
+com.android.keychain
+com.android.shell
+com.android.inputdevices
+com.android.DeviceAsWebcam
+Status: WARNING
+----------------------------------------
+
+[POS_SECURITY] Open Listening Ports
+Command: netstat -tlnp 2>/dev/null | grep -E 'LISTEN' | awk '{print $4}' | grep -oE '[0-9]+$' | sort -u | tr '\n' ',' | sed 's/,$//'
+Description: PCI-DSS 1.1.6: Review all listening ports on POS terminal
+Result: 
+Status: SAFE
+----------------------------------------
+
+[POS_SECURITY] Remote Desktop Ports
+Command: netstat -tlnp 2>/dev/null | grep -E ':3389|:5900|:5901|:5800|:22|:5555|:4444' | grep 'LISTEN'
+Description: PCI-DSS 2.2.7: RDP(:3389)/VNC(:5900-5901,:5800)/SSH(:22)/ADB-net(:5555) must be closed. :4444 included as Metasploit/reverse-shell indicator - verify manually if flagged.
+Result: 
+Status: SAFE
+----------------------------------------
+
+[POS_SECURITY] Suspicious Processes - Memory Tools
+Command: ps -A -o cmd 2>/dev/null | grep -iE '\bmemdump\b|\bmemscrap\b|\btcpdump\b|\bstrace\b|\bltrace\b' | grep -ivE 'dumpstate|dumpsys|dumpcrash|tombstoned|incidentd' | grep -v grep
+Description: Memory dumping tools detected - potential RAM scraping malware indicator
+Result: grep: bad regex '\bmemdump\b|\bmemscrap\b|\btcpdump\b|\bstrace\b|\bltrace\b': trailing backslash (\)
+Status: CRITICAL
+----------------------------------------
+
+[POS_SECURITY] Suspicious Processes - Known POS Malware
+Command: ps -A -o cmd 2>/dev/null | grep -iE 'rdasrv|blackpos|alina|vskimmer|dexter|treasurehunt|fastpos|rawpos|posei|backoff|jackpos|punkey|multigrain|centerpos|malumpos' | grep -v grep
+Description: Known POS malware process names detected
+Result: 
+Status: SAFE
+----------------------------------------
+
+[POS_SECURITY] Hotspot Disabled
+Command: settings get global wifi_ap_enabled 2>/dev/null
+Description: PCI-DSS: WiFi hotspot must be disabled on POS terminals
+Result: null
+Status: SAFE
+----------------------------------------
+
+[POS_SECURITY] Clipboard Manager Apps
+Command: pm list packages 2>/dev/null | grep -iE 'clipboard|clipper|copy|paste' | grep -v 'com.android'
+Description: Third-party clipboard apps may capture card data
+Result: 
+Status: SAFE
+----------------------------------------
+
+[POS_SECURITY] Screen Capture Disabled
+Command: settings get secure screencapture_disabled 2>/dev/null
+Description: Screen capture should be disabled to protect card data display [⚠ Manual verification required - value is NULL]
+Result: null (Setting may not exist or is not configured)
+Status: VERIFY
+----------------------------------------
+
+[POS_SECURITY] POS Vendor Properties
+Command: getprop 2>/dev/null | grep -iE 'pax|verifone|ingenico|newland|sunmi|elo|clover|square|toast' | head -10
+Description: POS vendor-specific system properties detected
+Result: 
+Status: SAFE
+----------------------------------------
+
+[POS_SECURITY] Log Files with Card Patterns
+Command: find /data/local /sdcard \( -name '*.log' -o -name '*.txt' \) 2>/dev/null | xargs grep -lE '(^|[^0-9])(4[0-9]{12,15}|5[1-5][0-9]{14}|3[47][0-9]{13}|6(011|5[0-9]{2})[0-9]{12})([^0-9]|$)' 2>/dev/null | head -3
+Description: PCI-DSS 3.4: Files potentially containing standalone PANs (Visa/MC/Amex/Discover). Uses digit-boundary matching to reduce false positives from serial numbers and IDs.
+Result: 
+Status: SAFE
+----------------------------------------
+
+[POS_SECURITY] Debug Log Level
+Command: getprop persist.log.tag 2>/dev/null
+Description: Verbose logging may expose sensitive payment data in logs
+Result: 
+Status: SAFE
+----------------------------------------
+
+[POS_SECURITY] Logcat Buffer Size
+Command: getprop persist.logd.size 2>/dev/null | grep -E '^[0-9]+[KMG]?$' || echo 'default'
+Description: Large log buffers may retain sensitive transaction data longer
+Result: default
+Status: SAFE
+----------------------------------------
+
+[POS_SECURITY] PAN Data in SQLite Databases
+Command: find /data/data -name '*.db' 2>/dev/null | while read db; do if command -v sqlite3 >/dev/null 2>&1; then out=$(sqlite3 "$db" .dump 2>/dev/null | grep -E '(^|[^0-9])(4[0-9]{12,15}|5[1-5][0-9]{14}|3[47][0-9]{13}|6(011|5[0-9]{2})[0-9]{12})([^0-9]|$)' | head -1); else out=$(strings -n 13 "$db" 2>/dev/null | grep -E '(^|[^0-9])(4[0-9]{12,15}|5[1-5][0-9]{14}|3[47][0-9]{13}|6(011|5[0-9]{2})[0-9]{12})([^0-9]|$)' | head -1); fi; [ -n "$out" ] && echo "Found in: $db"; done | head -5
+Description: PCI-DSS 3.4: SQLite databases containing unencrypted PAN card data. Uses sqlite3 .dump (text output) instead of raw strings to avoid binary false positives.
+Result: Found in: /data/data/no.nordicsemi.android.mcp/databases/mcp.db
+Found in: /data/data/com.rtbishop.look4sat/files/osmdroid/tiles/cache.db
+Found in: /data/data/com.google.android.googlequicksearchbox/databases/portable_geller_v33raiot@gmail.com.db
+Found in: /data/data/com.google.android.googlequicksearchbox/databases/portable_provider_v33raiot@gmail.com.db
+Found in: /data/data/com.google.android.googlequicksearchbox/app_si/opa_content_store/content_store.db
+Status: CRITICAL
+----------------------------------------
+
+[POS_SECURITY] Screen Recording Process Active
+Command: ps -A -o cmd 2>/dev/null | grep -iE 'screenrecord|scrcpy|minicap|wfirefly|recordScreen' | grep -v grep
+Description: Screen recording tool detected - may capture card data or PIN entry on POS terminal
+Result: 
+Status: SAFE
+----------------------------------------
+
+[POS_SECURITY] NFC Relay Attack Tools
+Command: ps -A -o cmd 2>/dev/null | grep -iE 'nfcrelay|nfcgate|nfcproxy|nfc.relay|supercard|phantomcard' | grep -v grep
+Description: NFC relay attack tool detected - intercepts and relays contactless payment data in real-time
+Result: 
+Status: SAFE
+----------------------------------------
+
+[POS_SECURITY] PAX Terminal Services
+Command: ps -A -o cmd 2>/dev/null | grep -iE 'pax|paydroid|neptune|sagittarius' | grep -v grep
+Description: PAX terminal-specific processes detected - verify all services are legitimate PAX firmware
+Result: 
+Status: INFO
+----------------------------------------
+
+[POS_SECURITY] PAX Unsigned Partition Access (CVE-2023-42134)
+Command: ls -la /dev/block/by-name/pax* 2>/dev/null
+Description: PAX unsigned partition block device accessible - CVE-2023-42134 allows local code execution via unsigned partition flashing
+Result: 
+Status: SAFE
+----------------------------------------
+
+[PRIVACY] Microphone Mute
+Command: settings get global microphone_mute
+Description: Hardware microphone mute status [⚠ Manual verification required - value is NULL]
+Result: null (Setting may not exist or is not configured)
+Status: VERIFY
+----------------------------------------
+
+[PRIVACY] Camera Mute
+Command: settings get global camera_mute
+Description: Hardware camera mute status [⚠ Manual verification required - value is NULL]
+Result: null (Setting may not exist or is not configured)
+Status: VERIFY
+----------------------------------------
+
+[PRIVACY] Voice Recording Apps
+Command: dumpsys media.audio_policy 2>/dev/null | grep -i 'recording' | head -5
+Description: Apps using audio recording
+Result: 
+Status: INFO
+----------------------------------------
+
+[PRIVACY] Fingerprint Enrolled
+Command: settings get secure fingerprint_enrolled_fingers
+Description: Check if fingerprint authentication is enrolled [⚠ Manual verification required - value is NULL]
+Result: null (Setting may not exist or is not configured)
+Status: VERIFY
+----------------------------------------
+
+[PRIVACY] Face Unlock Status
+Command: settings get secure face_unlock_method
+Description: Face unlock may be less secure than fingerprint
+Result: null
+Status: SAFE
+----------------------------------------
+
+[PRIVACY] Auto-Lock After Biometric
+Command: settings get secure lock_screen_lock_after_timeout
+Description: Auto-lock timeout after biometric failure [⚠ Manual verification required - value is NULL]
+Result: null (Setting may not exist or is not configured)
+Status: VERIFY
+----------------------------------------
+
+[PRIVACY] Biometric Keyguard Enabled
+Command: settings get secure biometric_keyguard_enabled
+Description: Biometric keyguard should be enabled for secure unlock [⚠ Manual verification required - value is NULL]
+Result: null (Setting may not exist or is not configured)
+Status: VERIFY
+----------------------------------------
+
+[PRIVACY] Clipboard Access Notification
+Command: settings get secure show_clipboard_access_notification
+Description: Should notify when apps access clipboard [⚠ Manual verification required - value is NULL]
+Result: null (Setting may not exist or is not configured)
+Status: VERIFY
+----------------------------------------
+
+[PRIVACY] Clipboard Service
+Command: dumpsys clipboard 2>/dev/null | head -10
+Description: Clipboard service status
+Result: 
+Status: INFO
+----------------------------------------
+
+[PRIVACY] Screen Brightness Mode
+Command: settings get system screen_brightness_mode
+Description: Auto-brightness status
+Result: 1
+Status: SAFE
+----------------------------------------
+
+[PRIVACY] Adaptive Brightness
+Command: settings get system screen_auto_brightness_adj
+Description: Adaptive brightness setting
+Result: 0.0
+Status: SAFE
+----------------------------------------
+
+[PRIVACY] Always On Display
+Command: settings get secure doze_always_on
+Description: Always on display may show sensitive info
+Result: null
+Status: SAFE
+----------------------------------------
+
+[PRIVACY] Screenshot Prevention
+Command: settings get secure screensaver_enabled
+Description: Screensaver/daydream configuration
+Result: 1
+Status: SAFE
+----------------------------------------
+
+[PRIVACY] Location Services Mode
+Command: settings get secure location_mode
+Description: Location services mode (0=off, 3=high accuracy)
+Result: 3
+Status: INFO
+----------------------------------------
+
+[PRIVACY] GPS Enabled
+Command: settings get secure location_providers_allowed
+Description: Allowed location providers [⚠ Manual verification required - value is NULL]
+Result: null (Setting may not exist or is not configured)
+Status: VERIFY
+----------------------------------------
+
+[PRIVACY] Location History
+Command: settings get secure location_history_enabled
+Description: Location history can be privacy concern
+Result: null
+Status: SAFE
+----------------------------------------
+
+[PRIVACY] Network Location Provider
+Command: settings get secure network_location_opt_in
+Description: Network-based location opt-in status [⚠ Manual verification required - value is NULL]
+Result: null (Setting may not exist or is not configured)
+Status: VERIFY
+----------------------------------------
+
+[PRIVACY] Notification Listeners
+Command: settings get secure enabled_notification_listeners
+Description: Notification listeners can read all notifications including OTPs
+Result: null
+Status: SAFE
+----------------------------------------
+
+[PRIVACY] Notification Policy Access
+Command: settings get secure enabled_notification_policy_access_packages
+Description: Apps with notification policy access [⚠ Manual verification required - value is NULL]
+Result: null (Setting may not exist or is not configured)
+Status: VERIFY
+----------------------------------------
+
+[PRIVACY] Lock Screen Notifications
+Command: settings get secure lock_screen_allow_private_notifications
+Description: Private notifications on lock screen
+Result: 1
+Status: WARNING
+----------------------------------------
+
+[PRIVACY] Heads Up Notifications
+Command: settings get global heads_up_notifications_enabled
+Description: Heads up notification display
+Result: 1
+Status: SAFE
+----------------------------------------
+
+[PRIVACY] Screen Lock Enabled
+Command: settings get secure lockscreen.password_type
+Description: Device should have PIN/Password/Pattern lock enabled [⚠ Manual verification required - value is NULL]
+Result: null (Setting may not exist or is not configured)
+Status: VERIFY
+----------------------------------------
+
+[PRIVACY] Lock Screen Timeout
+Command: settings get system screen_off_timeout
+Description: Screen timeout should be 30 seconds or less for security
+Result: 60000
+Status: WARNING
+----------------------------------------
+
+[PRIVACY] Show Passwords Disabled
+Command: settings get system show_password
+Description: Passwords should not be shown when typing
+Result: null
+Status: SAFE
+----------------------------------------
+
+[PRIVACY] Lock Screen Notification Visibility
+Command: settings get secure lock_screen_show_notifications
+Description: Sensitive notifications should be hidden on lock screen
+Result: 1
+Status: WARNING
+----------------------------------------
+
+[PRIVACY] Smart Lock Disabled
+Command: settings get secure trust_agents_initialized
+Description: Smart Lock may reduce security by keeping device unlocked
+Result: 1
+Status: WARNING
+----------------------------------------
+
+[PRIVACY] Sensors Privacy Mode
+Command: settings get secure sensors_off
+Description: Sensor privacy mode status [⚠ Manual verification required - value is NULL]
+Result: null (Setting may not exist or is not configured)
+Status: VERIFY
+----------------------------------------
+
+[PRIVACY] Step Counter
+Command: dumpsys sensorservice 2>/dev/null | grep -i 'step' | head -3
+Description: Step counter sensor status
+Result: 0x000000b5) pedometer  Non-wakeup     | qualcomm        | ver: 1 | type: android.sensor.step_detector(18) | perm: android.permission.ACTIVITY_RECOGNITION | flags: 0x00000006
+0x000000b6) pedometer  Wakeup         | qualcomm        | ver: 1 | type: android.sensor.step_detector(18) | perm: android.permission.ACTIVITY_RECOGNITION | flags: 0x00000007
+0x000000bf) pedometer  Non-wakeup     | qualcomm        | ver: 1 | type: android.sensor.step_counter(19) | perm: android.permission.ACTIVITY_RECOGNITION...
+Status: SAFE
+----------------------------------------
+
+[PRIVACY] Active Sensors
+Command: dumpsys sensorservice 2>/dev/null | grep -i 'active' | head -10
+Description: Currently active sensors
+Result: Active sensors:
+Status: SAFE
+----------------------------------------
+
+[PRIVACY] Screen Lock
+Command: dumpsys window policy 2>/dev/null | grep -i 'showing.*lock\|isShowing' || dumpsys trust 2>/dev/null | grep -i 'enabled' || settings get secure lockscreen.password_type 2>/dev/null
+Description: Screen lock status (multiple detection methods)
+Result: Enabled agents:
+Status: SAFE
+----------------------------------------
+
+[PRIVACY] Clipboard Access
+Command: cmd clipboard get-primary-clip
+Description: Check if clipboard has sensitive data
+Result: No shell command implementation.
+Status: INFO
+----------------------------------------
+
+[PRIVACY] Clipboard History
+Command: dumpsys clipboard | grep 'Historical'
+Description: Clipboard history should be disabled to prevent data leaks
+Result: 
+Status: SAFE
+----------------------------------------
+
+[PRIVACY] Biometric Strength
+Command: dumpsys biometric | grep 'Strength='
+Description: Biometric auth should be 'STRONG' (not 'WEAK') [⚠ Manual verification required - empty/unsupported output]
+Result: (No output - command may not be supported on this device)
+Status: VERIFY
+----------------------------------------
+
+[PRIVACY] Backup Allowed
+Command: settings get global backup_enabled
+Description: Auto-backup should be disabled for sensitive apps [⚠ Manual verification required - value is NULL]
+Result: null (Setting may not exist or is not configured)
+Status: VERIFY
+----------------------------------------
+
+[PRIVACY] Fingerprint / Setup Complete
+Command: settings get secure user_setup_complete
+Description: Check if device setup is complete
+Result: 1
+Status: SAFE
+----------------------------------------
+
+[PRIVACY] Trust Agents Enabled
+Command: settings get secure enabled_trust_agents
+Description: May allow unlock bypass via smart lock [⚠ Manual verification required - value is NULL]
+Result: null (Setting may not exist or is not configured)
+Status: VERIFY
+----------------------------------------
+
+[PRIVACY] Microphone Usage
+Command: dumpsys media.audio_flinger | grep -i active
+Description: Detects open microphones
+Result: Fast tracks: sMaxFastTracks=8 activeMask=0x1
+  Index Active Full Partial Empty  Recent Ready    Written
+  4 Tracks of which 0 are active
+    Type     Id Active Client(pid/uid) Session Port Id S  Flags   Format Chn mask  SRate ST Usg CT  G db  L dB  R dB  VS dB  PortVol dB  PortMuted   Server FrmCnt  FrmRdy F Underruns  Flushed BitPerfect InternalMute   Latency
+                                                         Type     Id Active Client(pid/uid) Session Port Id S  Flags   Format Chn mask  S...
+Status: INFO
+----------------------------------------
+
+[PRIVACY] Camera Usage
+Command: dumpsys media.camera | grep -i client
+Description: Detects active camera clients
+Result: [ADB ERROR] Active Camera Clients:
+  Device 0 is closed, no client instance
+  Device 1 is closed, no client instance
+  Device 2 is closed, no client instance
+  Device 3 is closed, no client instance
+Status: SKIPPED
+----------------------------------------
+
+[PRIVACY] Sensors in Use
+Command: dumpsys sensorservice | grep 'active' | grep -v '0'
+Description: Shows currently used sensors
+Result: 
+Status: SAFE
+----------------------------------------
+
+[PRIVACY] Network Telemetry
+Command: settings get global usage_reporting_enabled
+Description: Should be disabled unless required [⚠ Manual verification required - value is NULL]
+Result: null (Setting may not exist or is not configured)
+Status: VERIFY
+----------------------------------------
+
+[PRIVACY] Sensitive Data in Logs
+Command: logcat -d 2>/dev/null | grep -iE 'password|token|key|secret|credential' | head -5
+Description: Sensitive data found in system logs
+Result: 11-25 10:41:52.923     0     0 I         : Kernel command line: rcupdate.rcu_expedited=1 cgroup.memory=nokmem,nosocket androidboot.configfs=true androidboot.hardware=qcom androidboot.usbcontroller=a600000.dwc3 ehci-hcd.park=3 firmware_class.path=/vendor/firmware_mnt/image loop.max_part=7 lpm_levels.sleep_disabled=1 msm_rtb.filter=0x237 service_locator.enable=1 swiotlb=2048 androidboot.verifiedbootstate=orange androidboot.keymaster=1 root=PARTUUID=c47eb7d2-51d0-b24c-6a2a-cfcdf4d79eff androidboot....
+Status: WARNING
+----------------------------------------
+
+[PRIVACY] SD Card Encryption
+Command: getprop ro.crypto.sdcard 2>/dev/null
+Description: SD card should be encrypted if present [⚠ Manual verification required - empty/unsupported output]
+Result: (No output - command may not be supported on this device)
+Status: VERIFY
+----------------------------------------
+
+[PRIVACY] Backup Files on Device
+Command: find /sdcard /data -name '*.bak' -o -name '*.backup' -o -name '*.old' 2>/dev/null | head -5
+Description: Backup files may contain sensitive data
+Result: /data/cache/magisk.log.bak
+/data/data/org.lineageos.jelly/app_webview/Default/Local Storage/leveldb/LOG.old
+/data/data/org.lineageos.jelly/app_webview/Default/shared_proto_db/metadata/LOG.old
+/data/data/org.lineageos.jelly/app_webview/Default/shared_proto_db/LOG.old
+/data/data/org.lineageos.jelly/app_webview/Default/PersistentOriginTrials/LOG.old
+Status: WARNING
+----------------------------------------
+
+[PRIVACY] Log Files Accessible
+Command: find /data /sdcard -name '*.log' -type f 2>/dev/null | head -5
+Description: Log files may contain sensitive information
+Result: /data/cache/magisk.log
+/data/data/org.lineageos.jelly/app_webview/Default/Local Storage/leveldb/000006.log
+/data/data/org.lineageos.jelly/app_webview/Default/shared_proto_db/metadata/000006.log
+/data/data/org.lineageos.jelly/app_webview/Default/shared_proto_db/000006.log
+/data/data/org.lineageos.jelly/app_webview/Default/Session Storage/000003.log
+Status: SAFE
+----------------------------------------
+
+[PRIVACY] Cleartext Storage Check
+Command: find /data -name 'shared_prefs' -type d 2>/dev/null | head -3
+Description: SharedPreferences directories - may store data in cleartext
+Result: /data/data/com.android.managedprovisioning/shared_prefs
+/data/data/no.nordicsemi.android.mcp/shared_prefs
+/data/data/com.google.android.syncadapters.calendar/shared_prefs
+Status: SAFE
+----------------------------------------
+
+[PRIVACY] Location Data Stored
+Command: find /data -type f -name '*.db' -exec sqlite3 {} "SELECT name FROM sqlite_master WHERE name LIKE '%location%' OR name LIKE '%gps%';" \; 2>/dev/null | head -5
+Description: Location tracking databases
+Result: 
+Status: SAFE
+----------------------------------------
+
+[PRIVACY] Database Files Present
+Command: find /data -name '*.db' -o -name '*.sqlite' 2>/dev/null | wc -l
+Description: Database files count - may contain PHI, verify encryption
+Result: 384
+Status: SAFE
+----------------------------------------
+
+[PRIVACY] Unencrypted PHI Indicators
+Command: find /sdcard /data -type f \( -name '*.csv' -o -name '*.txt' -o -name '*.xml' \) -exec grep -l -iE 'patient|ssn|dob|mrn|diagnosis|medication' {} \; 2>/dev/null | head -5
+Description: Potential unencrypted PHI found - HIPAA violation risk!
+Result: /data/data/com.google.android.apps.wellbeing/shared_prefs/primes.xml
+/data/data/com.google.android.partnersetup/shared_prefs/primes.xml
+/data/data/com.google.android.setupwizard/shared_prefs/primes.xml
+/data/data/com.google.android.projection.gearhead/shared_prefs/primes.xml
+/data/data/com.google.android.tts/shared_prefs/primes.xml
+Status: CRITICAL
+----------------------------------------
+
+[PRIVACY] Log Files with PHI Risk
+Command: find /data -name '*.log' -exec grep -l -iE 'patient|name|ssn|dob|mrn' {} \; 2>/dev/null | head -5
+Description: Log files may contain PHI - must be encrypted or purged
+Result: /data/data/org.lineageos.jelly/app_webview/Default/Session Storage/000003.log
+/data/data/org.lineageos.jelly/app_webview/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000003.log
+/data/data/waterwala.com.prime/app_webview/Default/Session Storage/000003.log
+/data/data/com.joeykrim.rootcheck/app_webview/Default/Session Storage/000003.log
+/data/data/com.google.android.gms/app_webview_admob-service/Default/Session Storage/000003.log
+Status: CRITICAL
+----------------------------------------
+
+[PRIVACY] Backup Files Present
+Command: find /sdcard /data -name '*.bak' -o -name '*.backup' -o -name '*export*' 2>/dev/null | head -5
+Description: Backup files may contain unencrypted PHI
+Result: /data/cache/magisk.log.bak
+/data/misc/bluedroid/bt_remote_dev_info.bak
+Status: WARNING
+----------------------------------------
+
+[PRIVACY] External Storage PHI Risk
+Command: ls /sdcard/*.db /sdcard/*.csv /sdcard/Download/*.db 2>/dev/null
+Description: Sensitive files on unencrypted external storage - PHI exposure risk!
+Result: 
+Status: SAFE
+----------------------------------------
+
+[SELINUX] SELinux mode is Enforcing (authoritative)
+Command: sh -c 'if command -v getenforce >/dev/null 2>&1; then getenforce 2>/dev/null; elif [ -r /sys/fs/selinux/enforce ]; then v=$(cat /sys/fs/selinux/enforce 2>/dev/null); [ "$v" = "1" ] && echo Enforcing || echo Permissive; else echo Permissive; fi'
+Description: Fail if SELinux is not enforcing. getenforce explicitly reports enforcing/permissive/disabled.
+Result: Enforcing
+Status: SAFE
+----------------------------------------
+
+[SELINUX] Kernel cmdline does not disable SELinux
+Command: sh -c 'if [ -r /proc/cmdline ] && grep -Eq "(androidboot\.selinux=permissive|selinux=0|enforcing=0)" /proc/cmdline 2>/dev/null; then echo BAD; else echo OK; fi'
+Description: Fails only if explicit disable/permissive flags are present in /proc/cmdline.
+Result: OK
+Status: SAFE
+----------------------------------------
+
+[SELINUX] SELinux enable file exists and shows enforcing bit (1)
+Command: sh -c 'if [ -r /sys/fs/selinux/enforce ]; then cat /sys/fs/selinux/enforce 2>/dev/null; else echo NO_FILE; fi'
+Description: Checks /sys/fs/selinux/enforce (1=enforcing, 0=permissive). Missing file suggests SELinux not mounted/enabled.
+Result: 1
+Status: SAFE
+----------------------------------------
+
+[SELINUX] SELinux policy is present (policy file non-empty)
+Command: sh -c 'if [ -s /sys/fs/selinux/policy ]; then echo PRESENT; else echo MISSING; fi'
+Description: Verifies that a policy blob is loaded (non-empty policy file).
+Result: PRESENT
+Status: SAFE
+----------------------------------------
+
+[SELINUX] selinuxenabled utility reports enabled (if available)
+Command: sh -c 'if command -v selinuxenabled >/dev/null 2>&1; then selinuxenabled >/dev/null 2>&1; rc=$?; [ $rc -eq 0 ] && echo ENABLED || echo DISABLED; else echo NO_TOOL; fi'
+Description: If selinuxenabled exists, it exits 0 when enabled. If missing, it does not fail.
+Result: NO_TOOL
+Status: SAFE
+----------------------------------------
+
+[SELINUX] sestatus reports enabled + enforcing (if available)
+Command: sh -c 'if command -v sestatus >/dev/null 2>&1; then (sestatus 2>/dev/null | grep -qi "SELinux status: *enabled" && sestatus 2>/dev/null | grep -qi "Current mode: *enforcing") && echo ENFORCING || echo NOT_ENFORCING; else echo NO_TOOL; fi'
+Description: Uses sestatus when present to confirm enabled+enforcing. If sestatus is missing, it does not fail.
+Result: NO_TOOL
+Status: SAFE
+----------------------------------------
+
+[SELINUX] Linux config requests enforcing (if config file exists)
+Command: sh -c 'if [ -r /etc/selinux/config ]; then v=$(grep -E "^[[:space:]]*SELINUX=" /etc/selinux/config | tail -n 1 | tr -d "\r" ); echo "$v"; else echo NO_FILE; fi'
+Description: If /etc/selinux/config exists, flags permissive/disabled. Missing file does not fail.
+Result: NO_FILE
+Status: SAFE
+----------------------------------------
+
+[SELINUX] selinuxfs appears mounted
+Command: sh -c 'grep -Eq "\bselinuxfs\b" /proc/mounts 2>/dev/null && echo MOUNTED || echo NOT_MOUNTED'
+Description: If SELinux is active, selinuxfs is typically mounted.
+Result: NOT_MOUNTED
+Status: WARNING
+----------------------------------------
+
+[SELINUX] Current shell has an SELinux context (id -Z)
+Command: sh -c 'if command -v id >/dev/null 2>&1; then id -Z 2>/dev/null || echo NO_CONTEXT; else echo NO_ID; fi'
+Description: Evidence: prints SELinux context for current identity.
+Result: u:r:su:s0
+Status: SAFE
+----------------------------------------
+
+[SELINUX] Process contexts available (ps -eZ)
+Command: sh -c 'if command -v ps >/dev/null 2>&1; then ps -eZ 2>/dev/null | head -n 15; else echo NO_PS; fi'
+Description: Evidence: lists processes with contexts (first 15 lines).
+Result: LABEL                          USER           PID  PPID        VSZ    RSS WCHAN            ADDR S NAME                       
+u:r:init:s0                    root             1     0   11099416  10708 SyS_epoll_wait      0 S init
+u:r:kernel:s0                  root             2     0          0      0 kthreadd            0 S [kthreadd]
+u:r:kernel:s0                  root             3     2          0      0 worker_thread       0 S [kworker/0:0]
+u:r:kernel:s0                  root             4 ...
+Status: SAFE
+----------------------------------------
+
+[SELINUX] getenforce present
+Command: sh -c 'command -v getenforce >/dev/null 2>&1 && echo PRESENT || echo MISSING'
+Description: Evidence: confirms getenforce tool availability.
+Result: PRESENT
+Status: SAFE
+----------------------------------------
+
+[SELINUX] setenforce present (and not blocked)
+Command: sh -c 'command -v setenforce >/dev/null 2>&1 && echo PRESENT || echo MISSING'
+Description: Evidence: confirms setenforce tool availability (does not change mode).
+Result: PRESENT
+Status: SAFE
+----------------------------------------
+
+[SELINUX] getsebool available (Linux SELinux booleans)
+Command: sh -c 'if command -v getsebool >/dev/null 2>&1; then echo PRESENT; getsebool -a 2>/dev/null | head -n 20; else echo MISSING; fi'
+Description: Evidence: booleans exist and are readable (first 20 lines).
+Result: MISSING
+Status: SAFE
+----------------------------------------
+
+[SELINUX] semodule list available (installed policy modules)
+Command: sh -c 'if command -v semodule >/dev/null 2>&1; then semodule -l 2>/dev/null | head -n 30; else echo NO_SEMODULE; fi'
+Description: Evidence: shows loaded SELinux modules (first 30 lines).
+Result: NO_SEMODULE
+Status: SAFE
+----------------------------------------
+
+[SELINUX] Android: count SELinux denials in logcat (avc:)
+Command: sh -c 'if command -v logcat >/dev/null 2>&1; then c=$(logcat -b all -T 1000 -d 2>/dev/null | grep -ci "avc:"); echo "AVC_LOGCAT_COUNT=$c"; else echo NO_LOGCAT; fi'
+Description: Evidence: counts 'avc:' denials in logcat.
+Result: AVC_LOGCAT_COUNT=0
+Status: SAFE
+----------------------------------------
+
+[SELINUX] Android: count SELinux denials in dmesg (avc:)
+Command: sh -c 'if command -v dmesg >/dev/null 2>&1; then c=$(dmesg 2>/dev/null | grep -ci "avc:"); echo "AVC_DMESG_COUNT=$c"; else echo NO_DMESG; fi'
+Description: Evidence: counts 'avc:' denials in dmesg.
+Result: AVC_DMESG_COUNT=280
+Status: SAFE
+----------------------------------------
+
+[SELINUX] Android: previous-boot denials via pstore console-ramoops (if present)
+Command: sh -c 'ls /sys/fs/pstore/console-ramoops* >/dev/null 2>&1 || { echo NO_PSTORE; exit 0; }; c=$(cat /sys/fs/pstore/console-ramoops* 2>/dev/null | grep -ci "avc:"); echo "AVC_PSTORE_COUNT=$c"'
+Description: Evidence: counts 'avc:' denials from previous boot if pstore is enabled.
+Result: NO_PSTORE
+Status: SAFE
+----------------------------------------
+
+[SELINUX] Android: live kernel log denials via /proc/kmsg (short sample)
+Command: sh -c 'if [ -r /proc/kmsg ]; then (timeout 2 cat /proc/kmsg 2>/dev/null || true) | grep -i "avc:" | head -n 20; else echo NO_KMSG; fi'
+Description: Evidence: samples kernel messages for 'avc:' (may require root; timeout avoids blocking).
+Result: 
+Status: SAFE
+----------------------------------------
+
+[SELINUX] Linux: kernel log AVC count via journalctl (if available)
+Command: sh -c 'if command -v journalctl >/dev/null 2>&1; then c=$(journalctl -k 2>/dev/null | grep -ci "avc:" ); echo "AVC_JOURNALCTL_COUNT=$c"; else echo NO_JOURNALCTL; fi'
+Description: Evidence: counts AVC denials in kernel journal (availability depends on system logging).
+Result: NO_JOURNALCTL
+Status: SAFE
+----------------------------------------
+
+[SELINUX] Linux: audit.log AVC count (if audit log exists)
+Command: sh -c 'if [ -r /var/log/audit/audit.log ]; then c=$(grep -ci "avc:" /var/log/audit/audit.log 2>/dev/null); echo "AVC_AUDITLOG_COUNT=$c"; else echo NO_AUDIT_LOG; fi'
+Description: Evidence: counts AVC denials in auditd log if present.
+Result: NO_AUDIT_LOG
+Status: SAFE
+----------------------------------------
+
+[SELINUX] Linux: ausearch recent AVC events (if ausearch exists)
+Command: sh -c 'if command -v ausearch >/dev/null 2>&1; then ausearch -m avc -ts recent 2>/dev/null | head -n 40; else echo NO_AUSEARCH; fi'
+Description: Evidence: shows recent AVC events via audit tooling (requires audit subsystem/logs).
+Result: NO_AUSEARCH
+Status: SAFE
+----------------------------------------
+
+[SELINUX] Linux: auditd service active (systemd systems)
+Command: sh -c 'if command -v systemctl >/dev/null 2>&1; then systemctl is-active auditd 2>/dev/null || true; else echo NO_SYSTEMCTL; fi'
+Description: Evidence: checks auditd status where systemd is used.
+Result: NO_SYSTEMCTL
+Status: SAFE
+----------------------------------------
+
+[SELINUX] Bootloader SELinux Override Not Permissive
+Command: sh -c 'v=$(getprop ro.boot.selinux 2>/dev/null); if [ -z "$v" ] || [ "$v" = "enforcing" ]; then echo OK; else echo "OVERRIDE=$v"; fi'
+Description: ro.boot.selinux is set by the bootloader and can override runtime enforcing. If set to 'permissive', device is globally permissive regardless of getenforce output. Empty or 'enforcing' = safe.
+Result: OK
+Status: SAFE
+----------------------------------------
+
+[SELINUX] SELinux Enforce File Not World-Writable
+Command: sh -c 'if [ -e /sys/fs/selinux/enforce ]; then perms=$(ls -la /sys/fs/selinux/enforce 2>/dev/null | awk "{print \$1}"); echo "$perms" | grep -qE '^.{8}[^-]' && echo WRITABLE || echo OK; else echo NO_FILE; fi'
+Description: If /sys/fs/selinux/enforce is world-writable, any process can disable SELinux without root. Should be read-only for non-root. WRITABLE = critical misconfiguration.
+Result: OK
+Status: SAFE
+----------------------------------------
+
+[SELINUX] No Individual Permissive Domains
+Command: sh -c 'if command -v semanage >/dev/null 2>&1; then out=$(semanage permissive -l 2>/dev/null); [ -z "$out" ] && echo CLEAN || echo "$out"; elif [ -r /sys/fs/selinux/policy ]; then # Android: check for permissive= in policy attributes via getprop out=$(getprop | grep -i permissive 2>/dev/null); [ -z "$out" ] && echo CLEAN || echo "$out"; else echo NO_TOOL; fi'
+Description: A device can report global Enforcing mode while individual critical domains (e.g. untrusted_app, shell) are set permissive. semanage permissive -l lists them on Linux; getprop permissive hint on Android. NO_TOOL = tool not available, not a failure. [⚠ Manual verification required - empty/unsupported output]
+Result: sh: syntax error: unmatched 'if'
+Status: VERIFY
+----------------------------------------
+
+[STORAGE] ADB Backup Enabled
+Command: settings get secure backup_enabled
+Description: ADB backup can extract sensitive data
+Result: 0
+Status: SAFE
+----------------------------------------
+
+[STORAGE] Auto Backup Enabled
+Command: settings get secure backup_auto_restore
+Description: Auto backup/restore status [⚠ Manual verification required - value is NULL]
+Result: null (Setting may not exist or is not configured)
+Status: VERIFY
+----------------------------------------
+
+[STORAGE] Backup Transport
+Command: settings get secure backup_transport
+Description: Backup transport service
+Result: com.stevesoltys.seedvault.transport.ConfigurableBackupTransport
+Status: SAFE
+----------------------------------------
+
+[STORAGE] Cloud Backup Account
+Command: settings get secure backup_manager_constants
+Description: Backup manager configuration
+Result: key_value_backup_interval_milliseconds=43200000
+Status: SAFE
+----------------------------------------
+
+[STORAGE] Mount Points (rw/ro)
+Command: mount | grep -E ' rw| ro'
+Description: Review mounted partitions and access permissions
+Result: 
+Status: SAFE
+----------------------------------------
+
+[STORAGE] tmpfs Usage
+Command: mount | grep tmpfs
+Description: Shows use of temporary memory file system
+Result: tmpfs on /dev type tmpfs (rw,seclabel,nosuid,relatime,size=2867820k,nr_inodes=716955,mode=755)
+tmpfs on /mnt type tmpfs (rw,seclabel,nosuid,nodev,noexec,relatime,size=2867820k,nr_inodes=716955,mode=755,gid=1000)
+tmpfs on /mnt/installer type tmpfs (rw,seclabel,nosuid,nodev,noexec,relatime,size=2867820k,nr_inodes=716955,mode=755,gid=1000)
+tmpfs on /mnt/androidwritable type tmpfs (rw,seclabel,nosuid,nodev,noexec,relatime,size=2867820k,nr_inodes=716955,mode=755,gid=1000)
+magisk on /debug_ramdisk typ...
+Status: SAFE
+----------------------------------------
+
+[STORAGE] World-Readable Files
+Command: find /data -maxdepth 4 -type f -perm -o+r 2>/dev/null | wc -l
+Description: No sensitive files should be world-readable (scans top 4 levels)
+Result: 373
+Status: WARNING
+----------------------------------------
+
+[STORAGE] World-Readable Files
+Command: find /data -maxdepth 4 -type f -perm -o+r 2>/dev/null
+Description: No sensitive files should be world-readable (scans top 4 levels)
+Result: /data/cache/magisk.log.bak
+/data/cache/magisk.log
+/data/data/com.google.android.projection.gearhead/app_impl/sdk_impl.jar
+/data/data/com.google.android.gms/shared_prefs/google_ads_flags.xml
+/data/data/com.google.android.gms/shared_prefs/admob_user_agent.xml
+/data/resource-cache/system@product@overlay@DisplayCutoutEmulationWaterfall@DisplayCutoutEmulationWaterfallOverlay.apk@idmap
+/data/resource-cache/vendor@overlay@org.lineageos.platform-res__lineage_fajita__auto_generated_rro_vendor.apk@idmap
+/...
+Status: WARNING
+----------------------------------------
+
+[STORAGE] SQLite DB Permissions
+Command: find /data/data -maxdepth 4 -name '*.db' -print0 2>/dev/null | xargs -0 ls -l 2>/dev/null | grep -v 'rw-------'
+Description: SQLite databases should not be world-readable/writable
+Result: -rw-rw---- 1 u0_a127 u0_a127    57344 2026-01-11 23:38 /data/data/com.android.dialer/databases/dialer.db
+-rw-rw---- 1 u0_a101 u0_a101    20480 2026-01-05 21:05 /data/data/com.android.documentsui/databases/lastAccess.db
+-rw-rw---- 1 u0_a101 u0_a101    16384 2025-07-15 12:31 /data/data/com.android.documentsui/databases/search_history.db
+-rw-rw---- 1 system  system     28672 2026-01-05 19:54 /data/data/com.android.keychain/databases/grants.db
+-rw-rw---- 1 u0_a152 u0_a152   544768 2026-02-18 00:58 /...
+Status: SAFE
+----------------------------------------
+
+[STORAGE] Custom Partitions
+Command: cat /proc/partitions 2>/dev/null | awk 'NR>2 {print $4}'
+Description: Device partitions - review for sensitive data partitions
+Result: ram0
+ram1
+ram2
+ram3
+ram4
+ram5
+ram6
+ram7
+ram8
+ram9
+ram10
+ram11
+ram12
+ram13
+ram14
+ram15
+loop0
+loop1
+loop2
+loop3
+loop4
+loop5
+loop6
+loop7
+loop8
+loop9
+loop10
+loop11
+loop12
+loop13
+loop14
+loop15
+zram0
+sda
+sda1
+sda2
+sda3
+sda4
+sda5
+sda6
+sda7
+sda8
+sda9
+sda10
+sda11
+sda12
+sda13
+sda14
+sda15
+sda16
+sda17
+sdc
+sdc1
+sdc2
+sdd
+sdd1
+sdd2
+sdd3
+sdb
+sdb1
+sdb2
+sde
+sde1
+sde2
+sde3
+sde4
+sde5
+sde6
+sde7
+sde8
+sde9
+sde10
+sde11
+sde12
+sde13
+sde14
+sde15
+sde16
+sde17
+sde18
+sde19
+sde20
+sde21
+sde22
+sde23
+sde24
+sde25
+sde26
+sde27
+sde28...
+Status: SAFE
+----------------------------------------
+
+[STORAGE] Mounted Filesystems
+Command: mount 2>/dev/null | grep -vE 'tmpfs|proc|sysfs|devpts' | head -15
+Description: Mounted filesystems and permissions
+Result: /dev/block/sda14 on / type ext4 (ro,seclabel,relatime,discard)
+selinuxfs on /sys/fs/selinux type selinuxfs (rw,relatime)
+/dev/block/sde44 on /vendor type ext4 (ro,seclabel,relatime,discard)
+none on /dev/blkio type cgroup (rw,nosuid,nodev,noexec,relatime,blkio)
+none on /sys/fs/cgroup type cgroup2 (rw,nosuid,nodev,noexec,relatime)
+none on /dev/cpuctl type cgroup (rw,nosuid,nodev,noexec,relatime,cpu)
+none on /dev/cpuset type cgroup (rw,nosuid,nodev,noexec,relatime,cpuset,noprefix,release_agent=/sbi...
+Status: SAFE
+----------------------------------------
+
+[STORAGE] Writable System Partition
+Command: mount 2>/dev/null | grep '/system' | grep -v 'ro,'
+Description: System partition writable - firmware can be modified!
+Result: 
+Status: SAFE
+----------------------------------------
+
+[STORAGE] Vendor Partition Writable
+Command: mount 2>/dev/null | grep '/vendor' | grep -v 'ro,'
+Description: Vendor partition writable - can be modified!
+Result: /dev/block/sda7 on /mnt/vendor/op2 type ext4 (rw,seclabel,nosuid,nodev,noatime,data=ordered)
+/dev/block/sda2 on /mnt/vendor/persist type ext4 (rw,seclabel,nosuid,nodev,noatime,data=ordered)
+/dev/block/sde59 on /mnt/vendor/op1 type ext4 (rw,seclabel,nosuid,nodev,noatime,data=ordered)
+Status: CRITICAL
+----------------------------------------
+
+[STORAGE] World-Writable Files
+Command: find /data -maxdepth 4 -type f -perm -o+w 2>/dev/null | wc -l
+Description: Unprotected sensitive files (scans top 4 levels of /data)
+Result: 17
+Status: WARNING
+----------------------------------------
+
+[STORAGE] World-Writable Files
+Command: find /data -maxdepth 4 -type f -perm -o+w 2>/dev/null
+Description: Unprotected sensitive files (scans top 4 levels of /data)
+Result: /data/cache/magisk.log.bak
+/data/cache/magisk.log
+/data/vendor/sensors/file1
+/data/vendor/oemnvitems/6855
+/data/vendor/oemnvitems/4678_1
+/data/vendor/oemnvitems/4678_0
+/data/vendor/oemnvitems/447
+/data/vendor/camera_update/reservetuningbin5
+/data/vendor/camera_update/reservetuningbin0
+/data/vendor/camera_update/reservetuningbin2
+/data/vendor/camera_update/reservetuningbin3
+/data/vendor/camera_update/reservetuningbin4
+/data/vendor/camera_update/reservetuningbin6
+/data/vendor/camera_update/reserve...
+Status: WARNING
+----------------------------------------
+
+[STORAGE] BusyBox Present
+Command: which busybox 2>/dev/null || ls /system/bin/busybox /system/xbin/busybox 2>/dev/null
+Description: BusyBox utilities available
+Result: 
+Status: INFO
+----------------------------------------
+
+[STORAGE] Custom Init Scripts
+Command: ls /system/etc/init/ /vendor/etc/init/ /data/adb/service.d/ 2>/dev/null
+Description: Custom init scripts - review for backdoors
+Result: /data/adb/service.d:
+
+/system/etc/init:
+UprobeStats-platform.rc
+aconfigd.rc
+android.system.suspend-service.rc
+apexd.rc
+atrace.rc
+atrace_userdebug.rc
+audioserver.rc
+blank_screen.rc
+bootanim.rc
+bootstat-debug.rc
+bootstat.rc
+cameraserver.rc
+clean_scratch_files.rc
+cppreopts.rc
+credstore.rc
+dmesgd.rc
+drmserver.rc
+dumpstate.rc
+flags_health_check.rc
+gatekeeperd.rc
+gpuservice.rc
+gsid.rc
+heapprofd.rc
+hw
+idmap2d.rc
+incidentd.rc
+init-debug.rc
+installd.rc
+kcmdlinectrl.rc
+keystore2.rc
+llkd.rc
+lmkd.rc
+logcatd...
+Status: SAFE
+----------------------------------------
+
+[STORAGE] Recovery Partition Access
+Command: ls /dev/block/by-name/recovery /dev/block/bootdevice/by-name/recovery 2>/dev/null
+Description: Recovery partition accessible
+Result: 
+Status: INFO
+----------------------------------------
+
+[STORAGE] Firmware Version Info
+Command: getprop ro.build.display.id; getprop ro.build.version.incremental; getprop ro.vendor.build.fingerprint 2>/dev/null | head -3
+Description: Firmware version information
+Result: lineage_fajita-userdebug 15 BP1A.250505.005 c6cc79b979
+c6cc79b979
+OnePlus/OnePlus6T/OnePlus6T:11/RKQ1.201217.002/2111252327:user/release-keys
+Status: SAFE
+----------------------------------------
+
+[STORAGE] OTA Package Location
+Command: find /data/ota /data/data/com.google.android.gms /cache /data/cache -maxdepth 3 -name '*.zip' 2>/dev/null | head -5; find /cache /data/ota -maxdepth 2 \( -name '*update*' -o -name '*ota*' \) 2>/dev/null | head -5
+Description: OTA update packages found
+Result: /data/ota
+Status: SAFE
+----------------------------------------
+
+[STORAGE] Hidden or Extra Partitions
+Command: cat /proc/partitions | grep -Ev 'mmcblk0p[0-9]+|sda[0-9]+'
+Description: Detects non-standard or extra partitions
+Result: major minor  #blocks  name
+
+   1        0       8192 ram0
+   1        1       8192 ram1
+   1        2       8192 ram2
+   1        3       8192 ram3
+   1        4       8192 ram4
+   1        5       8192 ram5
+   1        6       8192 ram6
+   1        7       8192 ram7
+   1        8       8192 ram8
+   1        9       8192 ram9
+   1       10       8192 ram10
+   1       11       8192 ram11
+   1       12       8192 ram12
+   1       13       8192 ram13
+   1       14       8192 ram14
+   1       15    ...
+Status: SAFE
+----------------------------------------
+
+[STORAGE] SDCard Mount RW
+Command: mount | grep /sdcard | grep rw
+Description: SDCard should not be mounted read-write in restricted environments
+Result: 
+Status: SAFE
+----------------------------------------
+
+[STORAGE] Orphaned Files in /data
+Command: find /data -maxdepth 3 -type f -uid 0 ! -user system 2>/dev/null | wc -l
+Description: Looks for files owned by root but not by 'system' user (top 3 levels)
+Result: 0
+Status: SAFE
+----------------------------------------
+
+[STORAGE] External Storage Encryption
+Command: getprop ro.crypto.volume.filenames_mode
+Description: External storage filenames should be encrypted [⚠ Manual verification required - empty/unsupported output]
+Result: (No output - command may not be supported on this device)
+Status: VERIFY
+----------------------------------------
+
+[NETWORK] Airplane Mode
+Command: settings get global airplane_mode_on
+Description: Airplane mode status
+Result: 0
+Status: SAFE
+----------------------------------------
+
+[NETWORK] Mobile Data Enabled
+Command: settings get global mobile_data
+Description: Mobile data status
+Result: 0
+Status: SAFE
+----------------------------------------
+
+[NETWORK] Data Roaming
+Command: settings get global data_roaming
+Description: Data roaming can incur costs and security risks
+Result: 1
+Status: WARNING
+----------------------------------------
+
+[NETWORK] Preferred Network Mode
+Command: settings get global preferred_network_mode
+Description: Preferred cellular network mode
+Result: 22,22
+Status: SAFE
+----------------------------------------
+
+[NETWORK] VoLTE Enabled
+Command: settings get global volte_feature_disabled
+Description: Voice over LTE status [⚠ Manual verification required - value is NULL]
+Result: null (Setting may not exist or is not configured)
+Status: VERIFY
+----------------------------------------
+
+[NETWORK] DNS Servers
+Command: getprop net.dns1
+Description: Check DNS configs
+Result: 
+Status: SAFE
+----------------------------------------
+
+[NETWORK] Wi-Fi Security (WPA3)
+Command: dumpsys wifi | grep 'WPA3-'
+Description: WPA3 should be preferred over WPA2 for stronger Wi-Fi security [⚠ Manual verification required - empty/unsupported output]
+Result: (No output - command may not be supported on this device)
+Status: VERIFY
+----------------------------------------
+
+[NETWORK] DNS-over-TLS Enabled
+Command: settings get global private_dns_mode
+Description: DNS-over-TLS (DoT) should be enabled for encrypted DNS [⚠ Manual verification required - value is NULL]
+Result: null (Setting may not exist or is not configured)
+Status: VERIFY
+----------------------------------------
+
+[NETWORK] ARP Table Dump
+Command: cat /proc/net/arp
+Description: Lists resolved ARP IP-MAC mappings
+Result: IP address       HW type     Flags       HW address            Mask     Device
+192.168.0.1      0x1         0x2         20:23:51:a4:e1:0c     *        wlan0
+Status: SAFE
+----------------------------------------
+
+[NETWORK] Proxy Configuration
+Command: settings get global http_proxy
+Description: Proxy set may indicate MITM or forced redirection [⚠ Manual verification required - value is NULL]
+Result: null (Setting may not exist or is not configured)
+Status: VERIFY
+----------------------------------------
+
+[NETWORK] Captive Portal Detection
+Command: settings get global captive_portal_mode
+Description: Should be 1 (default); 0 disables captive portal checks [⚠ Manual verification required - value is NULL]
+Result: null (Setting may not exist or is not configured)
+Status: VERIFY
+----------------------------------------
+
+[NETWORK] CAN Bus Interface Exposed
+Command: ls /dev/can* /sys/class/net/can* /sys/class/net/vcan* 2>/dev/null
+Description: CAN bus interface accessible from Android - CRITICAL if exposed!
+Result: 
+Status: SAFE
+----------------------------------------
+
+[NETWORK] OBD-II Service Running
+Command: ps -A 2>/dev/null | grep -iE 'obd|elm327|canbus|socketcan'
+Description: OBD-II diagnostic service detected
+Result: 
+Status: SAFE
+----------------------------------------
+
+[NETWORK] Vehicle Diagnostic Permissions
+Command: timeout 8 dumpsys package 2>/dev/null | grep -E 'android.car.permission.CAR_DIAGNOSTICS|android.car.permission.CAR_ENGINE' | head -5
+Description: Apps with vehicle diagnostic permissions
+Result: 
+Status: INFO
+----------------------------------------
+
+[NETWORK] Vehicle Control Permissions
+Command: timeout 8 dumpsys package 2>/dev/null | grep -E 'CAR_CONTROL|CAR_SPEED|CAR_ENERGY|CAR_POWERTRAIN' | head -5
+Description: Apps with vehicle control permissions - review carefully!
+Result: Permission [com.google.android.gms.permission.CAR_SPEED] (9c6ee5e):
+    perm=PermissionInfo{c7ba9b1 com.google.android.gms.permission.CAR_SPEED}
+      com.google.android.gms.permission.CAR_SPEED: prot=dangerous
+      com.google.android.gms.permission.CAR_SPEED: prot=dangerous
+Status: CRITICAL
+----------------------------------------
+
+[NETWORK] Telematics Service
+Command: ps -A 2>/dev/null | grep -iE 'telematics|tcu|tbox|connectivity'
+Description: Telematics/connectivity service running
+Result: 
+Status: INFO
+----------------------------------------
+
+[NETWORK] Cellular Modem for Telematics
+Command: getprop gsm.version.baseband 2>/dev/null; getprop ro.telephony.default_network 2>/dev/null
+Description: Cellular connectivity for telematics/OTA
+Result: .15-00007-SDM845_GEN_PACK-1.437410.1.446401.1,.15-00007-SDM845_GEN_PACK-1.437410.1.446401.1
+22,22
+Status: SAFE
+----------------------------------------
+
+[NETWORK] GPS/Location Always On
+Command: settings get secure location_mode 2>/dev/null
+Description: Location tracking enabled - privacy concern for vehicles
+Result: 3
+Status: WARNING
+----------------------------------------
+
+[NETWORK] Driving Mode Restrictions
+Command: settings get global car_dock_sound 2>/dev/null; dumpsys car_service 2>/dev/null | grep -i 'driving\|restriction' | head -3
+Description: Driving mode and UX restrictions status
+Result: /product/media/audio/ui/Dock.ogg
+Status: SAFE
+----------------------------------------
+
+[NETWORK] Vehicle Network Interfaces
+Command: ip link show 2>/dev/null | grep -iE 'can|eth|vlan|vehicle'
+Description: Network interfaces including vehicle networks
+Result: link/ether ba:01:46:7b:9b:c5 brd ff:ff:ff:ff:ff:ff
+    link/ether 42:6b:c0:de:29:7a brd ff:ff:ff:ff:ff:ff
+    link/ether 8a:2b:b3:8f:35:5f brd ff:ff:ff:ff:ff:ff
+    link/ether 64:a2:f9:cc:6d:a2 brd ff:ff:ff:ff:ff:ff
+Status: SAFE
+----------------------------------------
+
+[NETWORK] Ethernet to Vehicle Gateway
+Command: ip addr show 2>/dev/null | grep -A2 'eth0\|eth1' | grep inet
+Description: Ethernet connection - may connect to vehicle gateway
+Result: 
+Status: INFO
+----------------------------------------
+
+[NETWORK] Bluetooth OBD Adapters
+Command: dumpsys bluetooth_manager 2>/dev/null | grep -iE 'OBD\|ELM\|OBDII\|Vgate\|Carista' | head -3
+Description: Bluetooth OBD-II adapters paired - can access vehicle data
+Result: 
+Status: SAFE
+----------------------------------------
+
+[NETWORK] WiFi Direct for CarPlay/Android Auto
+Command: dumpsys wifi 2>/dev/null | grep -i 'p2p\|direct\|carplay\|androidauto' | head -3
+Description: WiFi Direct status for phone projection
+Result: 
+Status: INFO
+----------------------------------------
+
+[NETWORK] Firebase Config Present
+Command: ls /data/data/*/google-services.json /data/data/*/files/google-services.json 2>/dev/null || find /data -maxdepth 6 -name 'google-services.json' 2>/dev/null | head -3
+Description: Firebase configuration - check security rules
+Result: 
+Status: INFO
+----------------------------------------
+
+[NETWORK] AWS SDK/Config
+Command: find /data/data /data/app /data/misc /data/local /system/etc /system/app /vendor/etc -maxdepth 5 -type f \( -name '*.json' -o -name '*.conf' -o -name '*.properties' -o -name '*.xml' -o -name '*.yaml' -o -name '*.yml' -o -name '*.env' -o -name '*.cfg' \) -print0 2>/dev/null | xargs -0 grep -l -i 'aws_access_key\|aws_secret\|amazonaws.com' 2>/dev/null | head -5
+Description: AWS credentials or config found
+Result: 
+Status: SAFE
+----------------------------------------
+
+[NETWORK] Azure IoT Config
+Command: find /data/data /data/app /data/misc /data/local /system/etc /system/app /vendor/etc -maxdepth 5 -type f \( -name '*.json' -o -name '*.conf' -o -name '*.xml' -o -name '*.properties' -o -name '*.yaml' -o -name '*.yml' -o -name '*.env' -o -name '*.cfg' \) -print0 2>/dev/null | xargs -0 grep -l -i 'azure-devices.net\|iothub\|SharedAccessKey' 2>/dev/null | head -5
+Description: Azure IoT Hub configuration found
+Result: 
+Status: SAFE
+----------------------------------------
+
+[NETWORK] MQTT Broker Config
+Command: find /data/data /data/misc /system/etc /vendor/etc /vendor/firmware -maxdepth 5 -type f \( -name '*.conf' -o -name '*.json' -o -name '*.xml' -o -name '*.yaml' -o -name '*.yml' -o -name '*.cfg' \) -print0 2>/dev/null | xargs -0 grep -l -iE 'mqtt://|mqtts://|broker.*1883|mosquitto' 2>/dev/null | head -5
+Description: MQTT broker configuration files
+Result: 
+Status: INFO
+----------------------------------------
+
+[NETWORK] Telemetry Endpoints
+Command: find /system/etc /vendor/etc /system/app /vendor/app -maxdepth 4 -type f \( -name '*.json' -o -name '*.xml' -o -name '*.yaml' -o -name '*.conf' \) -print0 2>/dev/null | xargs -0 grep -l -iE 'telemetry|analytics|tracking|metrics' 2>/dev/null | head -5
+Description: Telemetry/analytics endpoints configured
+Result: /system/etc/vintf/compatibility_matrix.device.xml
+/system/etc/vintf/compatibility_matrix.5.xml
+/system/etc/vintf/compatibility_matrix.8.xml
+/system/etc/vintf/compatibility_matrix.7.xml
+/system/etc/vintf/compatibility_matrix.202404.xml
+Status: SAFE
+----------------------------------------
+
+[NETWORK] OTA Update URL
+Command: find /system/etc /vendor/etc /system/app /vendor/app /vendor/firmware -maxdepth 4 -type f \( -name '*.json' -o -name '*.xml' -o -name '*.conf' -o -name '*.prop' -o -name '*.yaml' \) -print0 2>/dev/null | xargs -0 grep -l -iE 'ota.*update|firmware.*url|update.*server' 2>/dev/null | head -5
+Description: OTA update configuration - verify HTTPS and signing
+Result: /system/etc/compatconfig/services-platform-compat-config.xml
+/system/etc/permissions/platform.xml
+Status: SAFE
+----------------------------------------
+
+[NETWORK] Remote Management Ports
+Command: netstat -tlnp 2>/dev/null | grep -E ':8080|:8443|:9090|:3000|:4000' || ss -tlnp 2>/dev/null | grep -E ':8080|:8443|:9090|:3000|:4000'
+Description: Management/API ports exposed
+Result: 
+Status: SAFE
+----------------------------------------
+
+[NETWORK] Open TCP Ports
+Command: netstat -tlnp 2>/dev/null || ss -tlnp 2>/dev/null
+Description: All listening TCP ports - review for unnecessary services
+Result: Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program Name
+tcp        0      0 127.0.0.1:8872          0.0.0.0:*               LISTEN      2723/com.android.bluetooth
+tcp        0      0 192.168.0.169:41112     142.251.43.142:443      ESTABLISHED 7661/com.android.vending:background
+tcp        0      0 192.168.0.169:38696     216.239.36.223:443      ESTABLISHED 11461/com.google.android.gms.persistent
+tcp        0     ...
+Status: INFO
+----------------------------------------
+
+[NETWORK] Open UDP Ports
+Command: netstat -ulnp 2>/dev/null || ss -ulnp 2>/dev/null
+Description: INFO: All external UDP ports. 🟢 SAFE=empty. 🔴 UNSAFE=any output exposes UDP services. Why: UDP services often lack authentication.
+Result: Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program Name
+udp        0      0 192.168.0.169:42249     216.239.36.223:443      ESTABLISHED 13865/com.google.android.youtube
+udp        0      0 192.168.0.169:42454     116.119.62.143:443      ESTABLISHED 13865/com.google.android.youtube
+udp        0      0 0.0.0.0:42538           0.0.0.0:*               ESTABLISHED 1444/netmgrd
+udp        0      0 192.168.0.169:38445  ...
+Status: INFO
+----------------------------------------
+
+[NETWORK] HTTP Server Running
+Command: netstat -tlnp 2>/dev/null | grep -E ':80\b|:8080\b|:443\b|:8443\b' || ss -tlnp 2>/dev/null | grep -E ':80\b|:8080\b|:443\b|:8443\b'
+Description: Web server exposed - potential attack surface
+Result: 
+Status: SAFE
+----------------------------------------
+
+[NETWORK] Telnet Service (Insecure)
+Command: netstat -tlnp 2>/dev/null | grep ':23\b' || ss -tlnp 2>/dev/null | grep ':23\b'
+Description: Telnet transmits credentials in plaintext - CRITICAL RISK
+Result: 
+Status: SAFE
+----------------------------------------
+
+[NETWORK] FTP Service (Insecure)
+Command: netstat -tlnp 2>/dev/null | grep ':21\b' || ss -tlnp 2>/dev/null | grep ':21\b'
+Description: FTP transmits credentials in plaintext - CRITICAL RISK
+Result: 
+Status: SAFE
+----------------------------------------
+
+[NETWORK] SSH Service
+Command: netstat -tlnp 2>/dev/null | grep ':22\b' || ss -tlnp 2>/dev/null | grep ':22\b'
+Description: SSH exposed - ensure strong authentication
+Result: 
+Status: SAFE
+----------------------------------------
+
+[NETWORK] ADB Network Port (5555)
+Command: netstat -tlnp 2>/dev/null | grep ':5555\b' || ss -tlnp 2>/dev/null | grep ':5555\b'
+Description: ADB over network - allows remote shell access!
+Result: 
+Status: SAFE
+----------------------------------------
+
+[NETWORK] MQTT Broker (1883/8883)
+Command: netstat -tlnp 2>/dev/null | grep -E ':1883\b|:8883\b' || ss -tlnp 2>/dev/null | grep -E ':1883\b|:8883\b'
+Description: MQTT broker exposed - check authentication
+Result: 
+Status: SAFE
+----------------------------------------
+
+[NETWORK] CoAP Service (5683/5684)
+Command: netstat -ulnp 2>/dev/null | grep -E ':5683\b|:5684\b' || ss -ulnp 2>/dev/null | grep -E ':5683\b|:5684\b'
+Description: CoAP service exposed - IoT protocol
+Result: 
+Status: SAFE
+----------------------------------------
+
+[NETWORK] UPnP Service (1900)
+Command: netstat -ulnp 2>/dev/null | grep ':1900\b' || ss -ulnp 2>/dev/null | grep ':1900\b'
+Description: UPnP can expose device to network attacks
+Result: 
+Status: SAFE
+----------------------------------------
+
+[NETWORK] Network Interfaces
+Command: ip addr show 2>/dev/null | grep -E 'inet |inet6 ' | grep -v '127.0.0.1\|::1'
+Description: Active network interfaces and IPs
+Result: inet 127.0.0.1/8 scope host lo
+    inet6 ::1/128 scope host 
+    inet6 fe80::406b:c0ff:fede:297a/64 scope link 
+    inet 192.168.0.169/24 brd 192.168.0.255 scope global wlan0
+    inet6 fe80::882b:b3ff:fe8f:355f/64 scope link
+Status: SAFE
+----------------------------------------
+
+[NETWORK] Default Gateway
+Command: ip route show default 2>/dev/null
+Description: Network gateway configuration
+Result: 192.168.0.0/24 dev wlan0 proto kernel scope link src 192.168.0.169
+Status: SAFE
+----------------------------------------
+
+[NETWORK] Network Services Exposed
+Command: netstat -tlnp 2>/dev/null | grep -v '127.0.0.1' || ss -tlnp 2>/dev/null | grep -v '127.0.0.1'
+Description: Network services exposed - each must be documented and secured
+Result: Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program Name
+tcp        0      0 192.168.0.169:41112     142.251.43.142:443      ESTABLISHED 7661/com.android.vending:background
+tcp        0      0 192.168.0.169:38696     216.239.36.223:443      ESTABLISHED 11461/com.google.android.gms.persistent
+tcp        0      0 192.168.0.169:45712     116.119.96.80:443       CLOSE_WAIT  7661/com.android.vending:background
+tcp     ...
+Status: CRITICAL
+----------------------------------------
+
+[NETWORK] HL7/FHIR Ports (2575, 8080)
+Command: netstat -tlnp 2>/dev/null | grep -E ':2575|:8080|:8443' || ss -tlnp 2>/dev/null | grep -E ':2575|:8080|:8443'
+Description: HL7/FHIR API ports - verify TLS and authentication
+Result: 
+Status: INFO
+----------------------------------------
+
+[NETWORK] DICOM Ports (104, 11112)
+Command: netstat -tlnp 2>/dev/null | grep -E ':104\b|:11112' || ss -tlnp 2>/dev/null | grep -E ':104\b|:11112'
+Description: DICOM imaging ports - verify security configuration
+Result: 
+Status: INFO
+----------------------------------------
+
+[NETWORK] WiFi Security Protocol
+Command: dumpsys wifi 2>/dev/null | grep -iE 'security|wpa|wep|open' | head -3
+Description: Must use WPA2/WPA3 - WEP/Open networks prohibited for PHI
+Result: rec[8]: time=02-18 00:56:08.300 processed=ConnectableState org=DisconnectedState dest=L2ConnectingState what=CMD_START_CONNECT screen=on 0 1010 targetConfigKey="Mr-IoT"WPA_PSK BSSID=null targetBssid=any roam=false
+ rec[16]: time=02-18 00:56:08.354 processed=ConnectingOrConnectedState org=L2ConnectingState dest=L3ProvisioningState what=NETWORK_CONNECTION_EVENT screen=on 0 false 7a:23:51:a4:e1:0b nid=0 "Mr-IoT"WPA_PSK last=
+mWifiInfo SSID: "Mr-IoT", BSSID: 7a:23:51:a4:e1:0b, MAC: 8a:2b:b3:8f:35:5f...
+Status: SAFE
+----------------------------------------
+
+[NETWORK] Root Network Access Test
+Command: su -c 'netstat -anp 2>/dev/null | head -5' || echo 'ROOT_REQUIRED_FOR_FULL_OUTPUT'
+Description: INFO: Tests if root access works for network commands. If ROOT_REQUIRED shown, run HARDAX on rooted device for full network audit.
+Result: /system/bin/sh: no closing quote
+Status: INFO
+----------------------------------------
+
+[NETWORK] All Network Connections (Root)
+Command: su -c 'netstat -anp' 2>/dev/null || netstat -an 2>/dev/null || ss -anp 2>/dev/null || ss -an 2>/dev/null
+Description: INFO: Complete network connections list. Shows all TCP/UDP with PID if rooted. Use to verify other checks are working.
+Result: Active Internet connections (servers and established)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program Name
+tcp        0      0 127.0.0.1:8872          0.0.0.0:*               LISTEN      2723/com.android.bluetooth
+tcp        0      0 192.168.0.169:41112     142.251.43.142:443      ESTABLISHED 7661/com.android.vending:background
+tcp        0      0 192.168.0.169:38696     216.239.36.223:443      ESTABLISHED 11461/com.google.android.gms.persistent
+tcp   ...
+Status: INFO
+----------------------------------------
+
+[NETWORK] Listening Ports Summary (Root)
+Command: su -c 'netstat -lnp' 2>/dev/null | grep -E '^tcp|^udp' || netstat -ln 2>/dev/null | grep -E '^tcp|^udp'
+Description: INFO: All listening ports (TCP+UDP). 🟢 SAFE=only 127.0.0.1. 🔴 REVIEW=any 0.0.0.0 or external IP. Shows PID/program if rooted.
+Result: 
+Status: INFO
+----------------------------------------
+
+[NETWORK] Listening TCP Ports (IPv4)
+Command: netstat -lntp 2>/dev/null | grep '^tcp ' || ss -lntp 2>/dev/null | grep '^tcp'
+Description: INFO: All IPv4 TCP listening ports. 🟢 SAFE if 127.0.0.1 (localhost only). 🔴 UNSAFE if 0.0.0.0 (anyone can connect). Empty may indicate command failure on non-rooted device.
+Result: tcp        0      0 127.0.0.1:8872          0.0.0.0:*               LISTEN      2723/com.android.bluetooth
+tcp        0      0 192.168.0.169:41112     142.251.43.142:443      ESTABLISHED 7661/com.android.vending:background
+tcp        0      0 192.168.0.169:38696     216.239.36.223:443      ESTABLISHED 11461/com.google.android.gms.persistent
+tcp        0      0 192.168.0.169:45712     116.119.96.80:443       CLOSE_WAIT  7661/com.android.vending:background
+tcp        0      0 192.168.0.169:45478  ...
+Status: INFO
+----------------------------------------
+
+[NETWORK] Common TCP Ports Exposed (IPv4)
+Command: netstat -lntp 2>/dev/null | grep '^tcp ' | grep -E ':(53|80|25|110|143|465|587|993|995|8080|8443|22)[^0-9]' | grep -v '127\.' || ss -lntp 2>/dev/null | grep -E ':(53|80|25|110|143|465|587|993|995|8080|8443|22)[^0-9]' | grep -v '127\.'
+Description: WARNING: 22(SSH), 53(DNS), 80(HTTP), 8080(Proxy) exposed! 🟢 SAFE=empty. 🔴 UNSAFE=any output. Risk: brute force, unencrypted traffic.
+Result: 
+Status: SAFE
+----------------------------------------
+
+[NETWORK] Critical TCP Ports Exposed (IPv4)
+Command: netstat -lntp 2>/dev/null | grep '^tcp ' | grep -E ':(21|23|25|445|3306|5432|5555|5900|5901|3389|4444|41795)[^0-9]' | grep -v '127\.' || ss -lntp 2>/dev/null | grep -E ':(21|23|25|445|3306|5432|5555|5900|5901|3389|4444|41795)[^0-9]' | grep -v '127\.'
+Description: CRITICAL: 21(FTP), 23(Telnet), 5555(ADB), 3306(MySQL), 3389(RDP), 5900(VNC) exposed! 🟢 SAFE=empty. 🔴 UNSAFE=any output. IMMEDIATE ACTION REQUIRED!
+Result: 
+Status: SAFE
+----------------------------------------
+
+[NETWORK] Open UDP Ports (IPv4, excluding localhost)
+Command: netstat -lnup 2>/dev/null | grep '^udp ' | grep -v '127\.' || ss -lnup 2>/dev/null | grep '^udp' | grep -v '127\.'
+Description: INFO: External UDP ports. 🟢 SAFE=empty. 🔴 UNSAFE=any output. Risk: UDP services often lack authentication.
+Result: udp        0      0 192.168.0.169:42249     216.239.36.223:443      ESTABLISHED 13865/com.google.android.youtube
+udp        0      0 192.168.0.169:42454     116.119.62.143:443      ESTABLISHED 13865/com.google.android.youtube
+udp        0      0 0.0.0.0:42538           0.0.0.0:*               ESTABLISHED 1444/netmgrd
+udp        0      0 192.168.0.169:38445     142.251.43.142:443      ESTABLISHED 7647/com.android.vending
+udp        0      0 192.168.0.169:39397     142.250.206.14:443      ESTABLIS...
+Status: INFO
+----------------------------------------
+
+[NETWORK] UDP Ports 123, 161, 162, 5353 Open (IPv4)
+Command: netstat -lnup 2>/dev/null | grep '^udp ' | grep -E ':(123|161|162|5353)[^0-9]' | grep -v '127\.' || ss -lnup 2>/dev/null | grep -E ':(123|161|162|5353)[^0-9]' | grep -v '127\.'
+Description: WARNING: 123(NTP), 161(SNMP), 5353(mDNS) exposed! 🟢 SAFE=empty. 🔴 UNSAFE=any output. Risk: DDoS amplification, device info leakage.
+Result: 
+Status: SAFE
+----------------------------------------
+
+[NETWORK] Potentially Vulnerable UDP Ports (IPv4)
+Command: netstat -lnup 2>/dev/null | grep '^udp ' | grep -E ':(69|1900|500|4500|520)[^0-9]' | grep -v '127\.' || ss -lnup 2>/dev/null | grep -E ':(69|1900|500|4500|520)[^0-9]' | grep -v '127\.'
+Description: CRITICAL: 69(TFTP), 1900(SSDP), 500(IPsec) exposed! 🟢 SAFE=empty. 🔴 UNSAFE=any output. Risk: No auth, DDoS amplification!
+Result: 
+Status: SAFE
+----------------------------------------
+
+[NETWORK] Listening TCP Ports (IPv6, excluding ::1)
+Command: netstat -lntp 2>/dev/null | grep '^tcp6' | grep -v '::1' || ss -lntp 2>/dev/null | grep 'tcp6\|\[::\]' | grep -v '::1'
+Description: INFO: IPv6 TCP listening ports. 🟢 SAFE=empty or ::1 only. 🔴 UNSAFE if ::: (all interfaces). IPv6 often overlooked!
+Result: 
+Status: SAFE
+----------------------------------------
+
+[NETWORK] Common TCP Ports Exposed (IPv6, Warning)
+Command: netstat -lntp 2>/dev/null | grep '^tcp6' | grep -E ':(53|80|25|110|143|465|587|993|995|8080|8443|22)[^0-9]' | grep -v '::1' || ss -lntp 2>/dev/null | grep 'tcp6\|\[::\]' | grep -E ':(53|80|22)[^0-9]' | grep -v '::1'
+Description: WARNING: Common TCP on IPv6! 🟢 SAFE=empty. 🔴 UNSAFE=any output. Risk: Often missed in firewall rules!
+Result: 
+Status: SAFE
+----------------------------------------
+
+[NETWORK] Expanded Critical TCP Ports (excluding SSH) Listening or External (IPv6)
+Command: netstat -lntp 2>/dev/null | grep '^tcp6' | grep -E ':(21|23|25|445|3306|5432|5555|5900|5901|3389|4444|41795)[^0-9]' | grep -v '::1' || ss -lntp 2>/dev/null | grep 'tcp6\|\[::\]' | grep -E ':(21|23|5555)[^0-9]' | grep -v '::1'
+Description: CRITICAL: Dangerous ports on IPv6! 🟢 SAFE=empty. 🔴 UNSAFE=any output. Risk: Full device control via IPv6!
+Result: 
+Status: SAFE
+----------------------------------------
+
+[NETWORK] Open UDP Ports (IPv6, excluding localhost)
+Command: netstat -lnup 2>/dev/null | grep '^udp6' | grep -v '::1' || ss -lnup 2>/dev/null | grep 'udp6\|\[::\]' | grep -v '::1'
+Description: INFO: External IPv6 UDP ports. 🟢 SAFE=empty. 🔴 UNSAFE=any output. Risk: Bypasses IPv4 firewall rules.
+Result: 
+Status: SAFE
+----------------------------------------
+
+[NETWORK] UDP Ports 123, 161, 162, 5353 Open (IPv6)
+Command: netstat -lnup 2>/dev/null | grep '^udp6' | grep -E ':(123|161|162|5353)[^0-9]' | grep -v '::1' || ss -lnup 2>/dev/null | grep 'udp6' | grep -E ':(123|161|5353)[^0-9]' | grep -v '::1'
+Description: WARNING: NTP/SNMP/mDNS on IPv6! 🟢 SAFE=empty. 🔴 UNSAFE=any output. Risk: DDoS, device discovery.
+Result: 
+Status: SAFE
+----------------------------------------
+
+[NETWORK] Potentially Vulnerable UDP Ports (IPv6)
+Command: netstat -lnup 2>/dev/null | grep '^udp6' | grep -E ':(69|1900|500|4500|520)[^0-9]' | grep -v '::1' || ss -lnup 2>/dev/null | grep 'udp6' | grep -E ':(69|1900)[^0-9]' | grep -v '::1'
+Description: CRITICAL: TFTP/SSDP on IPv6! 🟢 SAFE=empty. 🔴 UNSAFE=any output. Risk: No-auth file transfer, DDoS!
+Result: 
+Status: SAFE
+----------------------------------------
+
+[NETWORK] VPN Legacy Mode
+Command: settings get global vpn_legacy_mode
+Description: Legacy VPN mode status [⚠ Manual verification required - value is NULL]
+Result: null (Setting may not exist or is not configured)
+Status: VERIFY
+----------------------------------------
+
+[NETWORK] Always-On VPN
+Command: settings get secure always_on_vpn_app
+Description: Always-on VPN app if configured [⚠ Manual verification required - value is NULL]
+Result: null (Setting may not exist or is not configured)
+Status: VERIFY
+----------------------------------------
+
+[NETWORK] VPN Lockdown
+Command: settings get secure always_on_vpn_lockdown
+Description: VPN lockdown mode prevents traffic without VPN [⚠ Manual verification required - value is NULL]
+Result: null (Setting may not exist or is not configured)
+Status: VERIFY
+----------------------------------------
+
+[NETWORK] Active VPN Connections
+Command: dumpsys connectivity 2>/dev/null | grep -i vpn | head -5
+Description: Current VPN connection status
+Result: 3: VpnNetworkProvider:0
+  NetworkAgentInfo{network{100}  handle{432902426637}  ni{WIFI CONNECTED extra: } created=2026-02-17T19:26:08.358Z Score(Policies : TRANSPORT_PRIMARY&EVER_EVALUATED&IS_UNMETERED&EVER_VALIDATED&IS_VALIDATED ; KeepConnected : 0)  created 59418 firstValidated 59939 lastValidated 59939  lp{{InterfaceName: wlan0 LinkAddresses: [ fe80::882b:b3ff:fe8f:355f/64,192.168.0.169/24 ] DnsAddresses: [ /192.168.0.1 ] Domains: null MTU: 0 ServerAddress: /192.168.0.1 TcpBufferSizes: 524288...
+Status: SAFE
+----------------------------------------
+
+[NETWORK] WiFi Enabled
+Command: settings get global wifi_on
+Description: WiFi enabled status
+Result: 1
+Status: SAFE
+----------------------------------------
+
+[NETWORK] WiFi Networks Saved
+Command: cmd wifi list-networks 2>/dev/null | wc -l
+Description: Number of saved WiFi networks
+Result: 3
+Status: SAFE
+----------------------------------------
+
+[NETWORK] WiFi MAC Randomization
+Command: settings get global wifi_connected_mac_randomization_enabled
+Description: MAC randomization protects privacy [⚠ Manual verification required - value is NULL]
+Result: null (Setting may not exist or is not configured)
+Status: VERIFY
+----------------------------------------
+
+[NETWORK] WiFi Scan Always Available
+Command: settings get global wifi_scan_always_enabled
+Description: WiFi scanning when WiFi off can leak location
+Result: 0
+Status: SAFE
+----------------------------------------
+
+[NETWORK] Open Network Notification
+Command: settings get global wifi_networks_available_notification_on
+Description: Notifications for open networks
+Result: 1
+Status: INFO
+----------------------------------------
+
+[NETWORK] WiFi Watchdog
+Command: settings get global wifi_watchdog_on
+Description: WiFi watchdog monitors connection quality [⚠ Manual verification required - value is NULL]
+Result: null (Setting may not exist or is not configured)
+Status: VERIFY
+----------------------------------------
+
+[NETWORK] WiFi Captive Portal Detection
+Command: settings get global captive_portal_detection_enabled
+Description: Captive portal detection for public WiFi [⚠ Manual verification required - value is NULL]
+Result: null (Setting may not exist or is not configured)
+Status: VERIFY
+----------------------------------------
+
+[NETWORK] Active External Connections (ESTABLISHED)
+Command: netstat -tunp 2>/dev/null | grep ESTABLISHED | grep -vE '127.0.0.1|::1|localhost' | head -20 || ss -tunp 2>/dev/null | grep ESTAB | grep -vE '127.0.0.1|::1' | head -20
+Description: Active outbound connections to external IPs - unexpected connections may indicate C2 communication or data exfiltration
+Result: tcp        0      0 192.168.0.169:41112     142.251.43.142:443      ESTABLISHED 7661/com.android.vending:background
+tcp        0      0 192.168.0.169:38696     216.239.36.223:443      ESTABLISHED 11461/com.google.android.gms.persistent
+tcp        0      0 192.168.0.169:45478     216.239.38.223:443      ESTABLISHED 7781/com.android.vending:instant_app_installer
+tcp        0      0 192.168.0.169:47550     216.239.34.223:443      ESTABLISHED 11479/com.google.android.gms
+tcp        0      0 192.168....
+Status: WARNING
+----------------------------------------
+
+[USB_SECURITY] USB Debugging Enabled
+Command: settings get global adb_enabled
+Description: USB debugging should be disabled in production
+Result: 1
+Status: CRITICAL
+----------------------------------------
+
+[USB_SECURITY] USB Mass Storage
+Command: getprop sys.usb.config
+Description: Check USB configuration mode
+Result: adb
+Status: WARNING
+----------------------------------------
+
+[USB_SECURITY] USB Accessory Mode
+Command: getprop sys.usb.state
+Description: Current USB state
+Result: adb
+Status: INFO
+----------------------------------------
+
+[USB_SECURITY] MTP Enabled
+Command: settings get global mtp_enabled
+Description: MTP file transfer status [⚠ Manual verification required - value is NULL]
+Result: null (Setting may not exist or is not configured)
+Status: VERIFY
+----------------------------------------
+
+[USB_SECURITY] Serial Device Files Exposed
+Command: ls /dev/tty* 2>/dev/null | grep -E 'ttyS|ttyUSB|ttyACM|ttyAMA|ttyMSM|ttyHS' | head -10
+Description: Serial interfaces exposed to userspace - may allow debug console access if physical UART connected
+Result: /dev/ttyHS0
+Status: INFO
+----------------------------------------
+
+[USB_SECURITY] GPIO Sysfs Exposed
+Command: ls /sys/class/gpio/ 2>/dev/null | grep -v 'export\|unexport'
+Description: GPIO pins exported to userspace - apps can control hardware pins
+Result: export
+gpiochip0
+gpiochip1024
+gpiochip1056
+gpiochip1088
+gpiochip1120
+gpiochip1152
+gpiochip1184
+gpiochip1216
+gpiochip1248
+gpiochip1259
+gpiochip1261
+gpiochip347
+gpiochip352
+gpiochip384
+gpiochip416
+gpiochip448
+gpiochip480
+gpiochip512
+gpiochip544
+gpiochip576
+gpiochip608
+gpiochip640
+gpiochip672
+gpiochip704
+gpiochip736
+gpiochip768
+gpiochip800
+gpiochip832
+gpiochip864
+gpiochip896
+gpiochip928
+gpiochip960
+gpiochip992
+unexport
+Status: INFO
+----------------------------------------
+
+[USB_SECURITY] I2C Bus Exposed
+Command: ls /dev/i2c-* 2>/dev/null
+Description: I2C bus accessible from userspace - can communicate with sensors/peripherals
+Result: /dev/i2c-0
+/dev/i2c-1
+/dev/i2c-2
+/dev/i2c-3
+/dev/i2c-4
+Status: INFO
+----------------------------------------
+
+[USB_SECURITY] SPI Bus Exposed
+Command: ls /dev/spidev* 2>/dev/null
+Description: SPI bus accessible from userspace
+Result: 
+Status: SAFE
+----------------------------------------
+
+[USB_SECURITY] USB Gadget Controller
+Command: ls /sys/class/udc/ 2>/dev/null
+Description: USB device controller present - device can act as USB peripheral
+Result: a600000.dwc3
+Status: SAFE
+----------------------------------------
+
+[USB_SECURITY] Kernel Console Enabled
+Command: cat /proc/cmdline 2>/dev/null | grep -oE 'console=[^ ]+'
+Description: Kernel boot console configured - debug output on serial port
+Result: 
+Status: SAFE
+----------------------------------------
+
+[USB_SECURITY] Video Capture Devices
+Command: ls /dev/video* 2>/dev/null
+Description: Camera/video devices available
+Result: /dev/video0
+/dev/video1
+/dev/video2
+/dev/video32
+/dev/video33
+Status: SAFE
+----------------------------------------
+
+[USB_SECURITY] Audio Capture Devices
+Command: ls /dev/snd/pcm*c* 2>/dev/null
+Description: Audio capture devices (microphones) available
+Result: /dev/snd/pcmC0D0c
+/dev/snd/pcmC0D10c
+/dev/snd/pcmC0D11c
+/dev/snd/pcmC0D12c
+/dev/snd/pcmC0D13c
+/dev/snd/pcmC0D14c
+/dev/snd/pcmC0D16c
+/dev/snd/pcmC0D17c
+/dev/snd/pcmC0D19c
+/dev/snd/pcmC0D1c
+/dev/snd/pcmC0D20c
+/dev/snd/pcmC0D21c
+/dev/snd/pcmC0D22c
+/dev/snd/pcmC0D23c
+/dev/snd/pcmC0D24c
+/dev/snd/pcmC0D25c
+/dev/snd/pcmC0D26c
+/dev/snd/pcmC0D27c
+/dev/snd/pcmC0D2c
+/dev/snd/pcmC0D33c
+/dev/snd/pcmC0D34c
+/dev/snd/pcmC0D35c
+/dev/snd/pcmC0D36c
+/dev/snd/pcmC0D38c
+/dev/snd/pcmC0D39c
+/dev/snd/pcmC0D3c
+/dev/snd/p...
+Status: SAFE
+----------------------------------------
+
+[USB_SECURITY] Raw Memory Access
+Command: ls -la /dev/mem /dev/kmem 2>/dev/null
+Description: /dev/mem or /dev/kmem exposed - allows raw memory read/write!
+Result: 
+Status: SAFE
+----------------------------------------
+
+[USB_SECURITY] Block Devices Writable
+Command: ls -la /dev/block/mmcblk* /dev/block/sd* 2>/dev/null | head -5
+Description: Raw block devices - check permissions
+Result: brw------- 1 root   root     8,   0 1970-11-25 10:41 /dev/block/sda
+brw------- 1 root   root     8,   1 1970-11-25 10:41 /dev/block/sda1
+brw------- 1 root   root     8,  10 1970-11-25 10:41 /dev/block/sda10
+brw------- 1 root   root     8,  11 1970-11-25 10:41 /dev/block/sda11
+brw------- 1 system system   8,  12 2026-02-18 00:57 /dev/block/sda12
+Status: SAFE
+----------------------------------------
+
+========================================
+AUDIT SUMMARY
+Target: 4af63364
+Safe: 264 | Warnings: 37 | Critical: 19 | Info: 77 | Skipped: 1
+Certificates: 50 total | 1 expired | 0 user-installed
+========================================
